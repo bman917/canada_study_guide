@@ -26,9 +26,15 @@ npm run preview
 
 ### Data Layer
 All exam content is stored in static JSON files in `src/data/`:
-- `questions.json`: Quiz questions organized by topic, with correct answers and explanations
+- `questions.json`: 299 quiz questions organized by 10 topics, with correct answers and detailed explanations. Includes both federal questions and provincial-specific content (premiers, capitals, economies).
 - `flashcards.json`: Flashcard sets for memorization
 - `studyContent.json`: Reference materials organized by topic
+
+**Data Sources**:
+- Official "Discover Canada" study guide
+- Richmond Public Library citizenship test answer keys (https://www.yourlibrary.ca/citizenship-test-answer-keys/)
+
+**Maintenance Note**: Questions about current political leaders (premiers, opposition leaders, Prime Minister) will require periodic updates as governments change.
 
 ### State Management
 - **No Redux or external state library**: All state is local React state

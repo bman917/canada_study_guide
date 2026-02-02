@@ -6,7 +6,7 @@ A comprehensive web application to help users prepare for the Canadian citizensh
 
 ### 1. Practice Quizzes by Topic
 - 10 organized topics covering all exam material
-- 110+ multiple choice questions
+- 299 multiple choice questions covering federal and provincial content
 - Immediate feedback with detailed explanations
 - Track performance by topic
 
@@ -124,12 +124,14 @@ The actual citizenship test:
 
 ## Data Sources
 
-All questions, flashcards, and study materials are based on the official study guide:
-**"Discover Canada: The Rights and Responsibilities of Citizenship"**
-Published by Immigration, Refugees and Citizenship Canada
+Questions and study materials are based on:
+- **"Discover Canada: The Rights and Responsibilities of Citizenship"** - Official study guide published by Immigration, Refugees and Citizenship Canada
+- **Richmond Public Library Citizenship Test Answer Keys** - https://www.yourlibrary.ca/citizenship-test-answer-keys/ (supplementary questions including provincial content)
 
 The official guide can be found in `docs/discover.pdf` or downloaded from:
 https://www.canada.ca/en/immigration-refugees-citizenship.html
+
+**Note**: Questions about current political leaders (premiers, opposition leaders, etc.) may require periodic updates as governments change.
 
 ## Deployment
 
