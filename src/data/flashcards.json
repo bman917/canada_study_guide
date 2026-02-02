@@ -1,0 +1,147 @@
+{
+  "categories": [
+    {
+      "id": "important-dates",
+      "name": "Important Dates",
+      "cards": [
+        { "front": "When did Canada become a country?", "back": "July 1, 1867" },
+        { "front": "When was the Canadian Charter of Rights and Freedoms enacted?", "back": "1982" },
+        { "front": "When was the current Canadian flag first raised?", "back": "1965" },
+        { "front": "When did women first get the right to vote in federal elections?", "back": "1918" },
+        { "front": "When was the Canadian Pacific Railway completed?", "back": "November 7, 1885" },
+        { "front": "When was the Battle of Vimy Ridge?", "back": "April 1917 (April 9 is Vimy Day)" },
+        { "front": "When is Remembrance Day?", "back": "November 11" },
+        { "front": "When is Canada Day?", "back": "July 1" },
+        { "front": "When was the Magna Carta signed?", "back": "1215" },
+        { "front": "When was the Official Languages Act passed?", "back": "1969" },
+        { "front": "When did Newfoundland and Labrador join Canada?", "back": "1949" },
+        { "front": "When did Nunavut become a territory?", "back": "1999" },
+        { "front": "When was the Quebec Act passed?", "back": "1774" },
+        { "front": "When did the War of 1812 take place?", "back": "1812-1814" },
+        { "front": "When was D-Day?", "back": "June 6, 1944" },
+        { "front": "When was O Canada proclaimed as the national anthem?", "back": "1980" }
+      ]
+    },
+    {
+      "id": "important-people",
+      "name": "Important People",
+      "cards": [
+        { "front": "Who was Canada's first Prime Minister?", "back": "Sir John A. Macdonald" },
+        { "front": "Who was the first French-Canadian Prime Minister since Confederation?", "back": "Sir Wilfrid Laurier" },
+        { "front": "Who discovered insulin?", "back": "Sir Frederick Banting and Charles Best" },
+        { "front": "Who was Sir George-Etienne Cartier?", "back": "A key architect of Confederation from Quebec" },
+        { "front": "Who was Sir Louis-Hippolyte La Fontaine?", "back": "Champion of democracy and French language rights, first leader of responsible government in the Canadas" },
+        { "front": "Who was Jacques Cartier?", "back": "First European to explore the St. Lawrence River (1534-1542)" },
+        { "front": "Who was John Cabot?", "back": "First European to map Canada's Atlantic shore (1497)" },
+        { "front": "Who was Laura Secord?", "back": "Pioneer who warned British forces of American attack in 1813" },
+        { "front": "Who was Terry Fox?", "back": "Young Canadian who ran across Canada for cancer research (Marathon of Hope)" },
+        { "front": "Who invented the telephone?", "back": "Alexander Graham Bell (at his summer house in Canada)" },
+        { "front": "Who invented the snowmobile?", "back": "Joseph-Armand Bombardier" },
+        { "front": "Who invented standard time zones?", "back": "Sir Sandford Fleming" },
+        { "front": "Who was Wayne Gretzky?", "back": "One of the greatest hockey players of all time" },
+        { "front": "Who was Agnes Macphail?", "back": "First woman elected to Parliament (1921)" },
+        { "front": "Who is Canada's Head of State?", "back": "The Sovereign (King or Queen)" }
+      ]
+    },
+    {
+      "id": "provinces-capitals",
+      "name": "Provinces & Capitals",
+      "cards": [
+        { "front": "What is the capital of Canada?", "back": "Ottawa" },
+        { "front": "Capital of Ontario", "back": "Toronto" },
+        { "front": "Capital of Quebec", "back": "Quebec City" },
+        { "front": "Capital of British Columbia", "back": "Victoria" },
+        { "front": "Capital of Alberta", "back": "Edmonton" },
+        { "front": "Capital of Saskatchewan", "back": "Regina" },
+        { "front": "Capital of Manitoba", "back": "Winnipeg" },
+        { "front": "Capital of Nova Scotia", "back": "Halifax" },
+        { "front": "Capital of New Brunswick", "back": "Fredericton" },
+        { "front": "Capital of Prince Edward Island", "back": "Charlottetown" },
+        { "front": "Capital of Newfoundland and Labrador", "back": "St. John's" },
+        { "front": "Capital of Yukon", "back": "Whitehorse" },
+        { "front": "Capital of Northwest Territories", "back": "Yellowknife" },
+        { "front": "Capital of Nunavut", "back": "Iqaluit" }
+      ]
+    },
+    {
+      "id": "government",
+      "name": "Government Facts",
+      "cards": [
+        { "front": "What are the three parts of Parliament?", "back": "The Sovereign, the Senate, and the House of Commons" },
+        { "front": "What type of government does Canada have?", "back": "Constitutional monarchy, parliamentary democracy, and federal state" },
+        { "front": "Who is the Head of Government?", "back": "The Prime Minister" },
+        { "front": "Who represents the Sovereign in Canada?", "back": "The Governor General" },
+        { "front": "Who represents the Sovereign in each province?", "back": "The Lieutenant Governor" },
+        { "front": "What is responsible government?", "back": "Ministers must have the support of a majority of elected representatives to govern" },
+        { "front": "How many provinces and territories does Canada have?", "back": "10 provinces and 3 territories" },
+        { "front": "What are the three levels of government?", "back": "Federal, provincial/territorial, and municipal" },
+        { "front": "What is a majority government?", "back": "When the party in power holds at least half the seats in the House of Commons" },
+        { "front": "What is a minority government?", "back": "When the party in power holds less than half the seats in the House of Commons" },
+        { "front": "How are senators appointed?", "back": "By the Governor General on the advice of the Prime Minister" },
+        { "front": "How long do senators serve?", "back": "Until age 75" }
+      ]
+    },
+    {
+      "id": "symbols",
+      "name": "Canadian Symbols",
+      "cards": [
+        { "front": "What is Canada's national anthem?", "back": "O Canada" },
+        { "front": "What are Canada's national colours?", "back": "Red and white" },
+        { "front": "What is Canada's best-known symbol?", "back": "The maple leaf" },
+        { "front": "What is Canada's national winter sport?", "back": "Ice hockey" },
+        { "front": "What is Canada's national summer sport?", "back": "Lacrosse" },
+        { "front": "What does the national motto 'A Mari Usque Ad Mare' mean?", "back": "From sea to sea" },
+        { "front": "What animal is an official symbol of Canada?", "back": "The beaver" },
+        { "front": "What is the Victoria Cross?", "back": "The highest honour for bravery available to Canadians" },
+        { "front": "What is the fleur-de-lys?", "back": "Symbol of French royalty, appears on Quebec's flag" },
+        { "front": "What is the Royal Anthem?", "back": "God Save the King (or Queen)" }
+      ]
+    },
+    {
+      "id": "rights-responsibilities",
+      "name": "Rights & Responsibilities",
+      "cards": [
+        { "front": "What are Canada's two official languages?", "back": "English and French" },
+        { "front": "Name three citizenship responsibilities", "back": "Obeying the law, taking responsibility for oneself and family, serving on a jury" },
+        { "front": "What is habeas corpus?", "back": "The right to challenge unlawful detention by the state" },
+        { "front": "What does the Magna Carta represent?", "back": "800-year tradition of ordered liberty since 1215" },
+        { "front": "What are four fundamental freedoms in Canada?", "back": "Freedom of conscience/religion, thought/expression, peaceful assembly, and association" },
+        { "front": "What does Mobility Rights mean?", "back": "Canadians can live and work anywhere in Canada, enter/leave freely, apply for passport" },
+        { "front": "What does presumption of innocence mean?", "back": "Everyone is innocent until proven guilty" },
+        { "front": "Who can vote in federal elections?", "back": "Canadian citizens aged 18 or older" },
+        { "front": "What is a secret ballot?", "back": "No one can watch you vote or see how you voted" }
+      ]
+    },
+    {
+      "id": "regions",
+      "name": "Regions & Geography",
+      "cards": [
+        { "front": "Which are the Atlantic Provinces?", "back": "Newfoundland and Labrador, PEI, Nova Scotia, New Brunswick" },
+        { "front": "Which are the Prairie Provinces?", "back": "Manitoba, Saskatchewan, Alberta" },
+        { "front": "Which is the smallest province?", "back": "Prince Edward Island" },
+        { "front": "Which province is the birthplace of Confederation?", "back": "Prince Edward Island" },
+        { "front": "Which is the only officially bilingual province?", "back": "New Brunswick" },
+        { "front": "What is the largest freshwater lake in the world?", "back": "Lake Superior" },
+        { "front": "What is the highest mountain in Canada?", "back": "Mount Logan (in Yukon)" },
+        { "front": "What are the five Great Lakes?", "back": "Superior, Huron, Ontario, Erie, Michigan" },
+        { "front": "What province has the world's highest tides?", "back": "Nova Scotia (Bay of Fundy)" },
+        { "front": "What is the 'Land of the Midnight Sun'?", "back": "The Northern Territories" }
+      ]
+    },
+    {
+      "id": "aboriginal",
+      "name": "Aboriginal Peoples",
+      "cards": [
+        { "front": "Who are Canada's three founding peoples?", "back": "Aboriginal, French, and British" },
+        { "front": "What are the three Aboriginal groups?", "back": "First Nations, Inuit, and Metis" },
+        { "front": "What does 'Inuit' mean?", "back": "The people" },
+        { "front": "Who are the Metis?", "back": "A distinct people of mixed Aboriginal and European ancestry" },
+        { "front": "What percentage of Aboriginal people are First Nations?", "back": "About 65%" },
+        { "front": "What language do the Metis speak?", "back": "Michif" },
+        { "front": "What was the Royal Proclamation of 1763?", "back": "First guaranteed Aboriginal territorial rights" },
+        { "front": "What territory has the highest Inuit population?", "back": "Nunavut (about 85%)" },
+        { "front": "What does 'Nunavut' mean?", "back": "Our land (in Inuktitut)" }
+      ]
+    }
+  ]
+}

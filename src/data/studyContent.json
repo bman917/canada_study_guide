@@ -1,0 +1,184 @@
+{
+  "topics": [
+    {
+      "id": "rights-responsibilities",
+      "name": "Rights and Responsibilities",
+      "summary": "Canadian citizens have rights and responsibilities that come from our history, are secured by Canadian law, and reflect our shared traditions, identity and values.",
+      "keyFacts": [
+        "Magna Carta (1215) established an 800-year tradition of ordered liberty",
+        "Habeas corpus is the right to challenge unlawful detention by the state",
+        "Canadian Charter of Rights and Freedoms was entrenched in 1982",
+        "Fundamental freedoms include: conscience/religion, thought/expression, peaceful assembly, association",
+        "Mobility Rights allow Canadians to live and work anywhere in Canada",
+        "French and English have equal status in Parliament and government",
+        "Responsibilities include: obeying the law, taking responsibility for oneself and family, serving on a jury",
+        "Voting is both a right and a responsibility",
+        "Men and women are equal under the law"
+      ]
+    },
+    {
+      "id": "who-we-are",
+      "name": "Who We Are",
+      "summary": "To understand what it means to be Canadian, it is important to know about our three founding peoples: Aboriginal, French and British.",
+      "keyFacts": [
+        "Three founding peoples: Aboriginal, French, and British",
+        "Aboriginal peoples include: First Nations (65%), Metis (30%), and Inuit (4%)",
+        "Inuit means 'the people' in Inuktitut",
+        "Metis are a distinct people of mixed Aboriginal and European ancestry",
+        "Royal Proclamation of 1763 first guaranteed Aboriginal territorial rights",
+        "Acadians are descendants of French colonists who settled in Maritimes (1604)",
+        "Quebecers form a nation within a united Canada",
+        "New Brunswick is the only officially bilingual province",
+        "English and French are Canada's two official languages",
+        "Since 1970s, most immigrants have come from Asian countries"
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Canada's History",
+      "summary": "Canada has a rich history from Aboriginal peoples through European exploration, Confederation, and nation-building.",
+      "keyFacts": [
+        "Vikings reached Labrador and Newfoundland 1,000 years ago",
+        "Jacques Cartier explored St. Lawrence River (1534-1542), name Canada from word 'kanata' (village)",
+        "First representative assembly elected in Halifax (1758)",
+        "Upper Canada first province to abolish slavery (1793)",
+        "War of 1812: Canada defended against American invasion",
+        "Confederation: July 1, 1867 - Ontario, Quebec, Nova Scotia, New Brunswick united",
+        "Sir John A. Macdonald was first Prime Minister",
+        "Canadian Pacific Railway completed November 7, 1885",
+        "Sir Wilfrid Laurier: first French-Canadian PM since Confederation",
+        "Women gained federal vote in 1918",
+        "Battle of Vimy Ridge: April 1917, 10,000 Canadian casualties",
+        "D-Day: June 6, 1944, Canadians captured Juno Beach",
+        "Remembrance Day: November 11, honours 110,000 who gave their lives"
+      ]
+    },
+    {
+      "id": "modern-canada",
+      "name": "Modern Canada",
+      "summary": "Post-war Canada developed into a prosperous, diverse nation with strong international engagement.",
+      "keyFacts": [
+        "Oil discovered in Alberta in 1947",
+        "Canada joined NATO (1949) and UN peacekeeping missions",
+        "Korean War (1950-53): 500 dead, 1,000 wounded",
+        "Quiet Revolution: rapid change in Quebec in 1960s",
+        "Official Languages Act (1969) guarantees French and English services",
+        "Canadian Charter of Rights and Freedoms entrenched in Constitution (1982)",
+        "NAFTA trade agreement with US and Mexico (1994)",
+        "Nunavut became territory (1999)",
+        "Terry Fox's Marathon of Hope (1980)",
+        "Important inventions: telephone, insulin, basketball, Canadarm"
+      ]
+    },
+    {
+      "id": "government",
+      "name": "How Canadians Govern Themselves",
+      "summary": "Canada is a federal state, a parliamentary democracy, and a constitutional monarchy.",
+      "keyFacts": [
+        "Three key facts: federal state, parliamentary democracy, constitutional monarchy",
+        "Head of State: The Sovereign (King or Queen)",
+        "Head of Government: The Prime Minister",
+        "Parliament has three parts: Sovereign, Senate, House of Commons",
+        "Governor General represents Sovereign in Canada",
+        "Lieutenant Governors represent Sovereign in provinces",
+        "Responsible government: ministers must have support of elected representatives",
+        "10 provinces and 3 territories",
+        "Three levels: federal, provincial/territorial, municipal",
+        "Federal: defence, foreign policy, citizenship, criminal law, currency",
+        "Provincial: education, health, natural resources, highways",
+        "Municipal: local services, policing, firefighting, snow removal"
+      ]
+    },
+    {
+      "id": "elections",
+      "name": "Federal Elections",
+      "summary": "Canadians elect members of Parliament who represent them in the House of Commons.",
+      "keyFacts": [
+        "Federal elections held third Monday in October every four years",
+        "Must be Canadian citizen, 18+ years old to vote",
+        "Electoral district (riding/constituency): area represented by one MP",
+        "Secret ballot: no one can watch you vote or see how you voted",
+        "Candidate with most votes in district becomes MP",
+        "Party with most seats forms government, leader becomes PM",
+        "Majority government: holds at least half the seats",
+        "Minority government: holds less than half the seats",
+        "Official Opposition: party with second-most seats",
+        "Elections Canada manages federal elections"
+      ]
+    },
+    {
+      "id": "justice",
+      "name": "The Justice System",
+      "summary": "Canada's justice system guarantees everyone due process under the law and is founded on the presumption of innocence.",
+      "keyFacts": [
+        "Presumption of innocence: everyone is innocent until proven guilty",
+        "Supreme Court of Canada is the highest court",
+        "Federal Court deals with federal government matters",
+        "Provincial courts handle most cases",
+        "Police keep people safe and enforce laws",
+        "RCMP (Royal Canadian Mounted Police) is national police force",
+        "Provincial police: Ontario (OPP) and Quebec (SQ)",
+        "Municipal police in major cities",
+        "You can question police about their service or conduct",
+        "Due process: government must respect all legal rights"
+      ]
+    },
+    {
+      "id": "symbols",
+      "name": "Canadian Symbols",
+      "summary": "Canada has many important symbols that help explain what it means to be Canadian.",
+      "keyFacts": [
+        "National anthem: O Canada (proclaimed 1980, first sung 1880)",
+        "Royal Anthem: God Save the King/Queen",
+        "National colours: red and white (since 1921)",
+        "Current flag raised in 1965 (red-white-red with maple leaf)",
+        "Maple leaf: best-known Canadian symbol",
+        "Beaver: official animal symbol",
+        "National motto: 'A Mari Usque Ad Mare' (from sea to sea)",
+        "National winter sport: ice hockey",
+        "National summer sport: lacrosse",
+        "Victoria Cross: highest honour for bravery",
+        "Order of Canada: started in 1967",
+        "Peace Tower: contains Books of Remembrance",
+        "Remembrance Day poppy: honours fallen soldiers"
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "Canada's Economy",
+      "summary": "Canada is a trading nation with one of the world's ten largest economies.",
+      "keyFacts": [
+        "One of the ten largest economies in the world",
+        "Part of G8 group of leading industrialized countries",
+        "Three main industry types: service, manufacturing, natural resources",
+        "Over 75% of Canadians work in service industries",
+        "Largest trading partner: United States",
+        "Free trade with US (1988), NAFTA with US and Mexico (1994)",
+        "Natural resources: forestry, fishing, agriculture, mining, energy",
+        "Manufacturing: paper, aerospace, automobiles, machinery, food",
+        "Service: transportation, education, healthcare, banking, retail",
+        "Oil discovered in Alberta (1947) began modern energy industry"
+      ]
+    },
+    {
+      "id": "regions",
+      "name": "Canada's Regions",
+      "summary": "Canada is the second largest country on earth with 10 provinces, 3 territories, and diverse regions.",
+      "keyFacts": [
+        "10 provinces and 3 territories",
+        "Population: about 34 million",
+        "Capital: Ottawa (chosen by Queen Victoria in 1857)",
+        "Atlantic Provinces: NL, PEI, NS, NB",
+        "Central Canada: Quebec and Ontario",
+        "Prairie Provinces: MB, SK, AB",
+        "West Coast: British Columbia",
+        "Northern Territories: YT, NT, NU",
+        "Largest city: Toronto (Ontario's capital)",
+        "Second largest: Montreal (Quebec)",
+        "Smallest province: Prince Edward Island",
+        "Newest territory: Nunavut (1999)",
+        "Last province to join: Newfoundland and Labrador (1949)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1486 @@
+{
+  "topics": [
+    {
+      "id": "rights-responsibilities",
+      "name": "Rights and Responsibilities",
+      "description": "Canadian citizenship rights, responsibilities, and freedoms"
+    },
+    {
+      "id": "who-we-are",
+      "name": "Who We Are",
+      "description": "Aboriginal peoples, English and French heritage, diversity"
+    },
+    {
+      "id": "history",
+      "name": "Canada's History",
+      "description": "From Aboriginal peoples to Confederation and beyond"
+    },
+    {
+      "id": "modern-canada",
+      "name": "Modern Canada",
+      "description": "Post-war Canada, Quebec, arts and culture"
+    },
+    {
+      "id": "government",
+      "name": "Government",
+      "description": "How Canadians govern themselves"
+    },
+    {
+      "id": "elections",
+      "name": "Federal Elections",
+      "description": "Voting and the electoral process"
+    },
+    {
+      "id": "justice",
+      "name": "Justice System",
+      "description": "Courts, police, and the rule of law"
+    },
+    {
+      "id": "symbols",
+      "name": "Canadian Symbols",
+      "description": "Flag, anthem, and national symbols"
+    },
+    {
+      "id": "economy",
+      "name": "Canada's Economy",
+      "description": "Trade, industries, and economic growth"
+    },
+    {
+      "id": "regions",
+      "name": "Regions of Canada",
+      "description": "Provinces, territories, and their capitals"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topic": "rights-responsibilities",
+      "question": "What are three responsibilities of citizenship?",
+      "options": [
+        "Being loyal to Canada, recycling newspapers, serving in the navy, army or air force",
+        "Obeying the law, taking responsibility for oneself and one's family, serving on a jury",
+        "Learning both official languages, voting in elections, belonging to a union",
+        "Buying Canadian products, owning your own business, using less water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The three responsibilities of citizenship include obeying the law, taking responsibility for oneself and one's family, and serving on a jury when called to do so."
+    },
+    {
+      "id": 2,
+      "topic": "rights-responsibilities",
+      "question": "What is the meaning of the Remembrance Day poppy?",
+      "options": [
+        "To remember our Sovereign, Queen Elizabeth II",
+        "To celebrate Confederation",
+        "To honour prime ministers who have died",
+        "To remember the sacrifice of Canadians who have served or died in wars up to the present day"
+      ],
+      "correctIndex": 3,
+      "explanation": "The red poppy is worn on Remembrance Day to honour the sacrifice of Canadians who have served or died in wars up to the present day."
+    },
+    {
+      "id": 3,
+      "topic": "elections",
+      "question": "How are members of Parliament chosen?",
+      "options": [
+        "They are appointed by the United Nations",
+        "They are chosen by the provincial premiers",
+        "They are elected by voters in their local constituency (riding)",
+        "They are elected by landowners and police chiefs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Members of Parliament are elected by voters in their local constituency, also known as a riding or electoral district."
+    },
+    {
+      "id": 4,
+      "topic": "rights-responsibilities",
+      "question": "Name two fundamental freedoms protected by the Canadian Charter of Rights and Freedoms.",
+      "options": [
+        "Freedom of belief and freedom of religion",
+        "Basic freedoms and to own property",
+        "Right to be Canadian and to travel to the U.S.",
+        "Right to a passport and to have friends"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Charter protects freedom of conscience and religion, freedom of thought, belief, opinion and expression, freedom of peaceful assembly, and freedom of association."
+    },
+    {
+      "id": 5,
+      "topic": "rights-responsibilities",
+      "question": "What is the significance of the Magna Carta?",
+      "options": [
+        "It was Canada's first constitution",
+        "It established the tradition of ordered liberty dating back to 1215",
+        "It created the Canadian flag",
+        "It made Canada independent from Britain"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Magna Carta (Great Charter of Freedoms) signed in 1215 in England established an 800-year tradition of ordered liberty that includes freedom of conscience, religion, thought, and expression."
+    },
+    {
+      "id": 6,
+      "topic": "rights-responsibilities",
+      "question": "What does 'habeas corpus' mean?",
+      "options": [
+        "The right to own property",
+        "The right to challenge unlawful detention by the state",
+        "The right to vote",
+        "The right to free speech"
+      ],
+      "correctIndex": 1,
+      "explanation": "Habeas corpus is the right to challenge unlawful detention by the state. It comes from English common law."
+    },
+    {
+      "id": 7,
+      "topic": "rights-responsibilities",
+      "question": "In Canada, men and women are equal under the law. What does this mean?",
+      "options": [
+        "Men and women must do the same jobs",
+        "Men and women have the same rights and responsibilities",
+        "Men earn more money than women",
+        "Women cannot join the military"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Canada, men and women are equal under the law. Canada's openness and generosity do not extend to practices such as spousal abuse, honour killings, female genital mutilation, or forced marriage."
+    },
+    {
+      "id": 8,
+      "topic": "rights-responsibilities",
+      "question": "What is a citizenship responsibility related to voting?",
+      "options": [
+        "You are not required to vote",
+        "You must vote in every election",
+        "The right to vote comes with a responsibility to vote in federal, provincial, and local elections",
+        "Only men can vote"
+      ],
+      "correctIndex": 2,
+      "explanation": "While voting is a right, it comes with the responsibility to participate in federal, provincial or territorial and local elections."
+    },
+    {
+      "id": 9,
+      "topic": "who-we-are",
+      "question": "Who are the three founding peoples of Canada?",
+      "options": [
+        "Aboriginal, French, and British",
+        "English, Irish, and Scottish",
+        "Inuit, Metis, and First Nations",
+        "French, American, and British"
+      ],
+      "correctIndex": 0,
+      "explanation": "Canada's three founding peoples are Aboriginal, French, and British. Understanding their contributions is important to understanding what it means to be Canadian."
+    },
+    {
+      "id": 10,
+      "topic": "who-we-are",
+      "question": "What does the word 'Inuit' mean?",
+      "options": [
+        "The brave",
+        "The first",
+        "The people",
+        "The hunters"
+      ],
+      "correctIndex": 2,
+      "explanation": "The word 'Inuit' means 'the people' in the Inuktitut language. The Inuit live in small, scattered communities across the Arctic."
+    },
+    {
+      "id": 11,
+      "topic": "who-we-are",
+      "question": "Who are the Metis?",
+      "options": [
+        "People who came from France",
+        "A distinct people of mixed Aboriginal and European ancestry",
+        "The first people to live in Canada",
+        "People from Eastern Canada"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Metis are a distinct people of mixed Aboriginal and European ancestry, the majority of whom live in the Prairie provinces. They come from both French and English-speaking backgrounds and speak their own dialect called Michif."
+    },
+    {
+      "id": 12,
+      "topic": "who-we-are",
+      "question": "What percentage of Aboriginal people are First Nations?",
+      "options": [
+        "25%",
+        "45%",
+        "65%",
+        "85%"
+      ],
+      "correctIndex": 2,
+      "explanation": "About 65% of Aboriginal people are First Nations, while 30% are Metis and 4% are Inuit."
+    },
+    {
+      "id": 13,
+      "topic": "who-we-are",
+      "question": "Which province is the only officially bilingual province?",
+      "options": [
+        "Quebec",
+        "Ontario",
+        "New Brunswick",
+        "Manitoba"
+      ],
+      "correctIndex": 2,
+      "explanation": "New Brunswick is the only officially bilingual province in Canada, with about one-third of the population speaking French."
+    },
+    {
+      "id": 14,
+      "topic": "who-we-are",
+      "question": "Who are the Acadians?",
+      "options": [
+        "French colonists who settled in the Maritime provinces in 1604",
+        "British settlers in Ontario",
+        "Aboriginal people from British Columbia",
+        "Immigrants from Asia"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Acadians are descendants of French colonists who began settling in what are now the Maritime provinces in 1604."
+    },
+    {
+      "id": 15,
+      "topic": "history",
+      "question": "When did Canada become a country?",
+      "options": [
+        "1759",
+        "1812",
+        "1867",
+        "1982"
+      ],
+      "correctIndex": 2,
+      "explanation": "Canada became a country on July 1, 1867, when the British North America Act was passed by the British Parliament, creating the Dominion of Canada."
+    },
+    {
+      "id": 16,
+      "topic": "history",
+      "question": "What is the name of Canada's original constitutional document?",
+      "options": [
+        "The Constitution Act",
+        "The British North America Act",
+        "The Canadian Charter of Rights",
+        "The Magna Carta"
+      ],
+      "correctIndex": 1,
+      "explanation": "The British North America Act of 1867 (now known as the Constitution Act, 1867) was Canada's original constitutional document that created the Dominion of Canada."
+    },
+    {
+      "id": 17,
+      "topic": "history",
+      "question": "Where does the name 'Canada' come from?",
+      "options": [
+        "From a French word meaning 'settlement'",
+        "From the Iroquoian word 'kanata' meaning village",
+        "From an English word meaning 'northern land'",
+        "From an Aboriginal word meaning 'great river'"
+      ],
+      "correctIndex": 1,
+      "explanation": "The name Canada comes from the Iroquoian word 'kanata,' meaning village. Jacques Cartier heard this word and by the 1550s, the name Canada began appearing on maps."
+    },
+    {
+      "id": 18,
+      "topic": "history",
+      "question": "Who was the first European to explore the St. Lawrence River?",
+      "options": [
+        "John Cabot",
+        "Samuel de Champlain",
+        "Jacques Cartier",
+        "Henry Hudson"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jacques Cartier was the first European to explore the St. Lawrence River and to set eyes on present-day Quebec City and Montreal between 1534 and 1542."
+    },
+    {
+      "id": 19,
+      "topic": "history",
+      "question": "Who was Sir John A. Macdonald?",
+      "options": [
+        "The first Premier of Ontario",
+        "Canada's first Prime Minister",
+        "A famous Canadian explorer",
+        "The founder of the RCMP"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sir John A. Macdonald was Canada's first Prime Minister. A Father of Confederation, he was born in Scotland and came to Upper Canada as a child. His portrait is on the $10 bill."
+    },
+    {
+      "id": 20,
+      "topic": "history",
+      "question": "What important event is celebrated on July 1st?",
+      "options": [
+        "Victoria Day",
+        "Remembrance Day",
+        "Canada Day",
+        "Thanksgiving"
+      ],
+      "correctIndex": 2,
+      "explanation": "Canada Day is celebrated on July 1st to commemorate Confederation in 1867 when Canada became a self-governing Dominion. Until 1982, it was called Dominion Day."
+    },
+    {
+      "id": 21,
+      "topic": "history",
+      "question": "What does Confederation mean?",
+      "options": [
+        "The joining together of provinces to form Canada",
+        "A war between provinces",
+        "The separation of Quebec from Canada",
+        "The union of Canada and the United States"
+      ],
+      "correctIndex": 0,
+      "explanation": "Confederation refers to the joining together of British colonies to form the new country of Canada. In 1867, Ontario, Quebec, Nova Scotia and New Brunswick united to form Canada."
+    },
+    {
+      "id": 22,
+      "topic": "history",
+      "question": "Which four provinces first formed Confederation?",
+      "options": [
+        "Ontario, Quebec, Manitoba, British Columbia",
+        "Ontario, Quebec, Nova Scotia, New Brunswick",
+        "Ontario, Quebec, Alberta, Saskatchewan",
+        "Ontario, Quebec, Prince Edward Island, Nova Scotia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ontario, Quebec, Nova Scotia, and New Brunswick were the first four provinces to form the Dominion of Canada in 1867."
+    },
+    {
+      "id": 23,
+      "topic": "history",
+      "question": "What was the significance of the Canadian Pacific Railway?",
+      "options": [
+        "It connected Canada to the United States",
+        "It was a powerful symbol of unity that fulfilled a national dream",
+        "It was the first railway in the world",
+        "It only operated in Ontario"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Canadian Pacific Railway was completed on November 7, 1885, when the last spike was driven. It was a powerful symbol of unity that fulfilled a national dream of connecting the country from sea to sea."
+    },
+    {
+      "id": 24,
+      "topic": "history",
+      "question": "Who was Sir Wilfrid Laurier?",
+      "options": [
+        "Canada's first Prime Minister",
+        "The first French-Canadian Prime Minister since Confederation",
+        "A famous Canadian soldier",
+        "The founder of Quebec City"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sir Wilfrid Laurier was the first French-Canadian Prime Minister since Confederation and encouraged immigration to the West. His portrait is on the $5 bill."
+    },
+    {
+      "id": 25,
+      "topic": "history",
+      "question": "When did the Canadian Charter of Rights and Freedoms become part of the Constitution?",
+      "options": [
+        "1867",
+        "1931",
+        "1982",
+        "1999"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Constitution of Canada was amended in 1982 to entrench the Canadian Charter of Rights and Freedoms."
+    },
+    {
+      "id": 26,
+      "topic": "history",
+      "question": "What important battle did Canadian troops capture in April 1917?",
+      "options": [
+        "Battle of Britain",
+        "Vimy Ridge",
+        "D-Day",
+        "Battle of Quebec"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Canadian Corps captured Vimy Ridge in April 1917, with 10,000 killed or wounded. This battle secured the Canadians' reputation for valour. April 9 is celebrated as Vimy Day."
+    },
+    {
+      "id": 27,
+      "topic": "history",
+      "question": "What is the significance of Remembrance Day?",
+      "options": [
+        "It celebrates Canada's birthday",
+        "It honours Canadians who served or died in wars",
+        "It commemorates the first Prime Minister",
+        "It celebrates the end of World War II"
+      ],
+      "correctIndex": 1,
+      "explanation": "Remembrance Day (November 11) honours the sacrifices of over a million brave Canadians who have served, and the 110,000 who have given their lives in wars up to the present day."
+    },
+    {
+      "id": 28,
+      "topic": "history",
+      "question": "In which year did women first gain the right to vote in federal elections?",
+      "options": [
+        "1867",
+        "1916",
+        "1918",
+        "1940"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 1918, most Canadian female citizens aged 21 and over were granted the right to vote in federal elections. Manitoba was the first province to grant voting rights to women in 1916."
+    },
+    {
+      "id": 29,
+      "topic": "modern-canada",
+      "question": "What is the Quiet Revolution?",
+      "options": [
+        "A peaceful protest in Ontario",
+        "An era of rapid change in Quebec in the 1960s",
+        "Canada's independence from Britain",
+        "The creation of the Canadian flag"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Quiet Revolution was an era of rapid change in Quebec in the 1960s when French-Canadian society and culture flourished."
+    },
+    {
+      "id": 30,
+      "topic": "modern-canada",
+      "question": "What does the Official Languages Act guarantee?",
+      "options": [
+        "That all Canadians must speak both English and French",
+        "French and English services in the federal government across Canada",
+        "That Quebec is an independent nation",
+        "That English is the only official language"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Official Languages Act (1969) guarantees French and English services in the federal government across Canada."
+    },
+    {
+      "id": 31,
+      "topic": "government",
+      "question": "What are the three parts of Parliament?",
+      "options": [
+        "The Prime Minister, the Cabinet, and the Senate",
+        "The Sovereign, the Senate, and the House of Commons",
+        "The Governor General, the Prime Minister, and the Senate",
+        "The provinces, the territories, and the federal government"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parliament has three parts: the Sovereign (Queen or King), the Senate, and the House of Commons."
+    },
+    {
+      "id": 32,
+      "topic": "government",
+      "question": "What is Canada's system of government called?",
+      "options": [
+        "A republic",
+        "A constitutional monarchy",
+        "A dictatorship",
+        "A direct democracy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canada is a constitutional monarchy, a parliamentary democracy, and a federal state. As a constitutional monarchy, Canada's Head of State is a hereditary Sovereign (Queen or King)."
+    },
+    {
+      "id": 33,
+      "topic": "government",
+      "question": "Who is Canada's Head of State?",
+      "options": [
+        "The Prime Minister",
+        "The Governor General",
+        "The Sovereign (Queen or King)",
+        "The Chief Justice"
+      ],
+      "correctIndex": 2,
+      "explanation": "As a constitutional monarchy, Canada's Head of State is the Sovereign (Queen or King), who reigns in accordance with the Constitution and the rule of law."
+    },
+    {
+      "id": 34,
+      "topic": "government",
+      "question": "Who is the Head of Government in Canada?",
+      "options": [
+        "The Queen",
+        "The Prime Minister",
+        "The Governor General",
+        "The Speaker of the House"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Prime Minister is the Head of Government in Canada, responsible for the operations and policy of the government."
+    },
+    {
+      "id": 35,
+      "topic": "government",
+      "question": "What is the role of the Governor General?",
+      "options": [
+        "To make laws",
+        "To represent the Sovereign in Canada",
+        "To lead the military",
+        "To collect taxes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Governor General represents the Sovereign in Canada and carries out the duties of Head of State, including giving royal assent to bills passed by Parliament."
+    },
+    {
+      "id": 36,
+      "topic": "government",
+      "question": "What is 'responsible government'?",
+      "options": [
+        "A government that pays its debts",
+        "Ministers of the Crown must have the support of a majority of elected representatives",
+        "A government that follows all laws",
+        "A government elected by the military"
+      ],
+      "correctIndex": 1,
+      "explanation": "Responsible government means that the ministers of the Crown must have the support of a majority of the elected representatives in order to govern. If they lose a confidence vote, they must resign."
+    },
+    {
+      "id": 37,
+      "topic": "government",
+      "question": "How many provinces and territories are there in Canada?",
+      "options": [
+        "8 provinces and 2 territories",
+        "10 provinces and 3 territories",
+        "12 provinces and 1 territory",
+        "9 provinces and 4 territories"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canada has 10 provinces and 3 territories."
+    },
+    {
+      "id": 38,
+      "topic": "government",
+      "question": "What are the three levels of government in Canada?",
+      "options": [
+        "Federal, regional, and local",
+        "Federal, provincial, and municipal",
+        "National, state, and city",
+        "Central, district, and community"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canada has three levels of government: federal (national), provincial and territorial, and municipal (local)."
+    },
+    {
+      "id": 39,
+      "topic": "government",
+      "question": "What does the federal government do?",
+      "options": [
+        "Manages local roads and parks",
+        "Handles matters of national and international concern like defence and citizenship",
+        "Only manages healthcare",
+        "Only collects property taxes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The federal government is responsible for matters of national and international concern, including defence, foreign policy, citizenship, criminal law, currency, and interprovincial trade."
+    },
+    {
+      "id": 40,
+      "topic": "government",
+      "question": "What are provincial governments responsible for?",
+      "options": [
+        "Defence and foreign policy",
+        "Currency and banking",
+        "Education, health, natural resources, and highways",
+        "International trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Provincial governments are responsible for education, health, natural resources, property and civil rights, highways, and municipal government."
+    },
+    {
+      "id": 41,
+      "topic": "elections",
+      "question": "Who can vote in a federal election?",
+      "options": [
+        "Anyone living in Canada",
+        "Canadian citizens aged 18 or older",
+        "Permanent residents",
+        "Only property owners"
+      ],
+      "correctIndex": 1,
+      "explanation": "To vote in a federal election, you must be a Canadian citizen and at least 18 years old on voting day, and be on the voters' list."
+    },
+    {
+      "id": 42,
+      "topic": "elections",
+      "question": "What is a secret ballot?",
+      "options": [
+        "A ballot that is counted in secret",
+        "No one can watch you vote or look at how you voted",
+        "Only the candidates know how you voted",
+        "The results are kept secret"
+      ],
+      "correctIndex": 1,
+      "explanation": "A secret ballot means that no one can watch you vote and no one should look at how you voted. You may choose to discuss how you voted, but no one has the right to insist."
+    },
+    {
+      "id": 43,
+      "topic": "elections",
+      "question": "What is an electoral district?",
+      "options": [
+        "A city that holds elections",
+        "A geographical area represented by a member of Parliament",
+        "A group of voters",
+        "A political party"
+      ],
+      "correctIndex": 1,
+      "explanation": "An electoral district (also called a riding or constituency) is a geographical area represented by a member of Parliament (MP)."
+    },
+    {
+      "id": 44,
+      "topic": "elections",
+      "question": "After an election, which party forms the government?",
+      "options": [
+        "The party with the most money",
+        "The party that wins the most seats",
+        "The oldest party",
+        "The party chosen by the Governor General"
+      ],
+      "correctIndex": 1,
+      "explanation": "After an election, the leader of the political party with the most seats in the House of Commons is invited by the Governor General to form the government and becomes Prime Minister."
+    },
+    {
+      "id": 45,
+      "topic": "elections",
+      "question": "What is the role of the Official Opposition?",
+      "options": [
+        "To support all government decisions",
+        "To peacefully oppose or try to improve government proposals",
+        "To form the government",
+        "To appoint judges"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Official Opposition (the party with the second-most seats) peacefully opposes or tries to improve government proposals. They are also called Her Majesty's Loyal Opposition."
+    },
+    {
+      "id": 46,
+      "topic": "justice",
+      "question": "What does 'presumption of innocence' mean?",
+      "options": [
+        "Everyone is guilty until proven innocent",
+        "Everyone is innocent until proven guilty",
+        "Only citizens are innocent",
+        "The judge decides who is guilty"
+      ],
+      "correctIndex": 1,
+      "explanation": "The presumption of innocence is a fundamental principle of the Canadian justice system: everyone is innocent until proven guilty."
+    },
+    {
+      "id": 47,
+      "topic": "justice",
+      "question": "What is the highest court in Canada?",
+      "options": [
+        "The Federal Court of Canada",
+        "The Court of Queen's Bench",
+        "The Supreme Court of Canada",
+        "The Provincial Court"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Supreme Court of Canada is the highest court in the country."
+    },
+    {
+      "id": 48,
+      "topic": "justice",
+      "question": "What is the role of the police?",
+      "options": [
+        "To make laws",
+        "To keep people safe and enforce the law",
+        "To judge criminal cases",
+        "To collect taxes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The police are there to keep people safe and to enforce the law. You can ask the police for help in all kinds of situations."
+    },
+    {
+      "id": 49,
+      "topic": "justice",
+      "question": "What is the RCMP?",
+      "options": [
+        "Royal Canadian Medical Professionals",
+        "Royal Canadian Mounted Police",
+        "Regional Canadian Military Police",
+        "Royal Canadian Municipal Police"
+      ],
+      "correctIndex": 1,
+      "explanation": "The RCMP (Royal Canadian Mounted Police) is Canada's national police force. They enforce federal laws throughout Canada and serve as the provincial police in all provinces except Ontario and Quebec."
+    },
+    {
+      "id": 50,
+      "topic": "symbols",
+      "question": "What is the national anthem of Canada?",
+      "options": [
+        "God Save the Queen",
+        "The Maple Leaf Forever",
+        "O Canada",
+        "True North"
+      ],
+      "correctIndex": 2,
+      "explanation": "O Canada is the national anthem of Canada. It was proclaimed as the national anthem in 1980 and was first sung in Quebec City in 1880."
+    },
+    {
+      "id": 51,
+      "topic": "symbols",
+      "question": "What are Canada's national colours?",
+      "options": [
+        "Red and blue",
+        "Red and white",
+        "Blue and white",
+        "Green and gold"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canada's national colours are red and white. King George V assigned these colours in 1921, and they are the colours of our national flag today."
+    },
+    {
+      "id": 52,
+      "topic": "symbols",
+      "question": "When was the current Canadian flag first raised?",
+      "options": [
+        "1867",
+        "1921",
+        "1965",
+        "1982"
+      ],
+      "correctIndex": 2,
+      "explanation": "The new Canadian flag with the maple leaf was first raised in 1965."
+    },
+    {
+      "id": 53,
+      "topic": "symbols",
+      "question": "What is Canada's best-known symbol?",
+      "options": [
+        "The beaver",
+        "The maple leaf",
+        "The fleur-de-lys",
+        "The moose"
+      ],
+      "correctIndex": 1,
+      "explanation": "The maple leaf is Canada's best-known symbol. It has appeared on Canadian uniforms and insignia since the 1850s."
+    },
+    {
+      "id": 54,
+      "topic": "symbols",
+      "question": "What is Canada's national winter sport?",
+      "options": [
+        "Skiing",
+        "Curling",
+        "Ice hockey",
+        "Figure skating"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ice hockey is Canada's national winter sport. It was developed in Canada in the 1800s and Canadian teams have dominated the world."
+    },
+    {
+      "id": 55,
+      "topic": "symbols",
+      "question": "What is Canada's national summer sport?",
+      "options": [
+        "Baseball",
+        "Soccer",
+        "Lacrosse",
+        "Golf"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lacrosse is Canada's national summer sport. It is an ancient sport first played by Aboriginal peoples."
+    },
+    {
+      "id": 56,
+      "topic": "symbols",
+      "question": "What does the Canadian motto 'A Mari Usque Ad Mare' mean?",
+      "options": [
+        "From sea to sea",
+        "Peace, Order and Good Government",
+        "Unity in Diversity",
+        "True North Strong and Free"
+      ],
+      "correctIndex": 0,
+      "explanation": "The national motto 'A Mari Usque Ad Mare' is Latin for 'From sea to sea.' It appears on the Canadian coat of arms."
+    },
+    {
+      "id": 57,
+      "topic": "symbols",
+      "question": "What animal is an official symbol of Canada?",
+      "options": [
+        "The moose",
+        "The polar bear",
+        "The beaver",
+        "The caribou"
+      ],
+      "correctIndex": 2,
+      "explanation": "The beaver is an official symbol of Canada. It was adopted centuries ago as a symbol of the Hudson's Bay Company and appears on the five-cent coin."
+    },
+    {
+      "id": 58,
+      "topic": "symbols",
+      "question": "What is the significance of the Crown in Canada?",
+      "options": [
+        "It is only a decoration",
+        "It is a symbol of government including Parliament, courts, and police",
+        "It represents Quebec",
+        "It has no significance"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Crown has been a symbol of the state in Canada for 400 years. It is a symbol of government, including Parliament, the legislatures, the courts, police services and the Canadian Forces."
+    },
+    {
+      "id": 59,
+      "topic": "economy",
+      "question": "What is Canada's largest trading partner?",
+      "options": [
+        "China",
+        "United Kingdom",
+        "United States",
+        "Japan"
+      ],
+      "correctIndex": 2,
+      "explanation": "The United States is Canada's largest trading partner. Over three-quarters of Canadian exports are destined for the U.S.A."
+    },
+    {
+      "id": 60,
+      "topic": "economy",
+      "question": "What are the three main types of industries in Canada?",
+      "options": [
+        "Agriculture, fishing, and hunting",
+        "Service, manufacturing, and natural resources",
+        "Mining, forestry, and technology",
+        "Banking, retail, and transportation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canada's economy includes three main types of industries: service industries, manufacturing industries, and natural resources industries."
+    },
+    {
+      "id": 61,
+      "topic": "economy",
+      "question": "What percentage of working Canadians have jobs in service industries?",
+      "options": [
+        "25%",
+        "50%",
+        "More than 75%",
+        "90%"
+      ],
+      "correctIndex": 2,
+      "explanation": "More than 75% of working Canadians now have jobs in service industries such as transportation, education, health care, construction, banking, and retail services."
+    },
+    {
+      "id": 62,
+      "topic": "regions",
+      "question": "What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Montreal",
+        "Ottawa",
+        "Vancouver"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ottawa is the capital of Canada. Located on the Ottawa River, it was chosen as the capital in 1857 by Queen Victoria."
+    },
+    {
+      "id": 63,
+      "topic": "regions",
+      "question": "Which provinces are known as the Atlantic Provinces?",
+      "options": [
+        "Quebec, Ontario, Manitoba, Saskatchewan",
+        "British Columbia, Alberta, Saskatchewan",
+        "Newfoundland and Labrador, Prince Edward Island, Nova Scotia, New Brunswick",
+        "Yukon, Northwest Territories, Nunavut"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Atlantic Provinces are Newfoundland and Labrador, Prince Edward Island, Nova Scotia, and New Brunswick."
+    },
+    {
+      "id": 64,
+      "topic": "regions",
+      "question": "Which provinces are known as the Prairie Provinces?",
+      "options": [
+        "Ontario, Quebec, New Brunswick",
+        "Manitoba, Saskatchewan, Alberta",
+        "British Columbia, Alberta, Saskatchewan",
+        "Yukon, Northwest Territories, Nunavut"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Prairie Provinces are Manitoba, Saskatchewan, and Alberta. They are rich in energy resources and have some of the most fertile farmland in the world."
+    },
+    {
+      "id": 65,
+      "topic": "regions",
+      "question": "What is the capital of British Columbia?",
+      "options": [
+        "Vancouver",
+        "Victoria",
+        "Kelowna",
+        "Surrey"
+      ],
+      "correctIndex": 1,
+      "explanation": "Victoria is the capital of British Columbia. It is located on Vancouver Island and is a tourist centre and headquarters of the navy's Pacific fleet."
+    },
+    {
+      "id": 66,
+      "topic": "regions",
+      "question": "What is the capital of Ontario?",
+      "options": [
+        "Ottawa",
+        "Hamilton",
+        "Toronto",
+        "London"
+      ],
+      "correctIndex": 2,
+      "explanation": "Toronto is the capital of Ontario and the largest city in Canada. It is also the country's main financial centre."
+    },
+    {
+      "id": 67,
+      "topic": "regions",
+      "question": "What is the capital of Quebec?",
+      "options": [
+        "Montreal",
+        "Quebec City",
+        "Laval",
+        "Gatineau"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quebec City is the capital of Quebec province."
+    },
+    {
+      "id": 68,
+      "topic": "regions",
+      "question": "Which is the smallest province?",
+      "options": [
+        "Nova Scotia",
+        "New Brunswick",
+        "Prince Edward Island",
+        "Newfoundland and Labrador"
+      ],
+      "correctIndex": 2,
+      "explanation": "Prince Edward Island (P.E.I.) is the smallest province. It is known for its beaches, red soil, and agriculture, especially potatoes."
+    },
+    {
+      "id": 69,
+      "topic": "regions",
+      "question": "Which province is known as the 'birthplace of Confederation'?",
+      "options": [
+        "Ontario",
+        "Quebec",
+        "Nova Scotia",
+        "Prince Edward Island"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prince Edward Island is known as the birthplace of Confederation because the first meetings to discuss Confederation were held in Charlottetown in 1864."
+    },
+    {
+      "id": 70,
+      "topic": "regions",
+      "question": "What is the largest freshwater lake in the world?",
+      "options": [
+        "Lake Ontario",
+        "Lake Erie",
+        "Lake Superior",
+        "Great Bear Lake"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lake Superior is the largest freshwater lake in the world by surface area. It is one of the five Great Lakes between Ontario and the United States."
+    },
+    {
+      "id": 71,
+      "topic": "regions",
+      "question": "What is the highest mountain in Canada?",
+      "options": [
+        "Mount Robson",
+        "Mount Logan",
+        "Mount St. Elias",
+        "Mount Whistler"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mount Logan, located in the Yukon, is the highest mountain in Canada. It is named in honour of Sir William Logan, a famous geologist."
+    },
+    {
+      "id": 72,
+      "topic": "regions",
+      "question": "What territory has the most Inuit population?",
+      "options": [
+        "Yukon",
+        "Northwest Territories",
+        "Nunavut",
+        "Northern Quebec"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nunavut has the highest Inuit population, at about 85%. The population speaks Inuktitut as an official language and the first language in schools."
+    },
+    {
+      "id": 73,
+      "topic": "history",
+      "question": "Which province was the first to abolish slavery in the British Empire?",
+      "options": [
+        "Quebec",
+        "Nova Scotia",
+        "Upper Canada (Ontario)",
+        "New Brunswick"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 1793, Upper Canada, led by Lieutenant Governor John Graves Simcoe, became the first province in the British Empire to move toward abolition of slavery."
+    },
+    {
+      "id": 74,
+      "topic": "history",
+      "question": "What was the Underground Railroad?",
+      "options": [
+        "A subway system in Toronto",
+        "A secret mining operation",
+        "A Christian anti-slavery network helping slaves escape to Canada",
+        "A railway through the Rocky Mountains"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Underground Railroad was a Christian anti-slavery network that helped thousands of slaves escape from the United States and settle in Canada."
+    },
+    {
+      "id": 75,
+      "topic": "history",
+      "question": "What war was fought between 1812 and 1814?",
+      "options": [
+        "The French and Indian War",
+        "The War of 1812 between Canada and the United States",
+        "World War I",
+        "The Seven Years' War"
+      ],
+      "correctIndex": 1,
+      "explanation": "The War of 1812 was fought between Canada (with Britain) and the United States. The American attempt to conquer Canada failed, and the present-day Canada-U.S.A. border is partly an outcome of this war."
+    },
+    {
+      "id": 76,
+      "topic": "history",
+      "question": "Who was Sir George-Etienne Cartier?",
+      "options": [
+        "The first Prime Minister of Canada",
+        "A key architect of Confederation from Quebec",
+        "The founder of the RCMP",
+        "A famous Canadian explorer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sir George-Etienne Cartier was a key architect of Confederation from Quebec. A railway lawyer and close ally of Macdonald, he led Quebec into Confederation."
+    },
+    {
+      "id": 77,
+      "topic": "modern-canada",
+      "question": "Who invented the telephone?",
+      "options": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Joseph-Armand Bombardier",
+        "Sir Sandford Fleming"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alexander Graham Bell hit on the idea of the telephone at his summer house in Canada."
+    },
+    {
+      "id": 78,
+      "topic": "modern-canada",
+      "question": "What did Sir Frederick Banting and Charles Best discover?",
+      "options": [
+        "The telephone",
+        "The snowmobile",
+        "Insulin",
+        "The light bulb"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sir Frederick Banting and Charles Best discovered insulin, a hormone to treat diabetes that has saved millions of lives worldwide."
+    },
+    {
+      "id": 79,
+      "topic": "symbols",
+      "question": "What is the Victoria Cross?",
+      "options": [
+        "A hospital in Victoria, BC",
+        "The highest honour for bravery available to Canadians",
+        "A medal for sports achievement",
+        "An award for academic excellence"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Victoria Cross (V.C.) is the highest honour available to Canadians and is awarded for the most conspicuous bravery, a daring act of valour or self-sacrifice, or extreme devotion to duty in the presence of the enemy."
+    },
+    {
+      "id": 80,
+      "topic": "modern-canada",
+      "question": "Who was Terry Fox?",
+      "options": [
+        "A famous hockey player",
+        "A young Canadian who ran across Canada to raise money for cancer research",
+        "A politician from British Columbia",
+        "The inventor of the snowmobile"
+      ],
+      "correctIndex": 1,
+      "explanation": "Terry Fox was a British Columbian who lost his leg to cancer and in 1980 began a cross-country run called the 'Marathon of Hope' to raise money for cancer research. He became a hero to Canadians."
+    },
+    {
+      "id": 81,
+      "topic": "government",
+      "question": "How is a bill passed into law?",
+      "options": [
+        "The Prime Minister signs it",
+        "It must be passed by both the House of Commons and the Senate and receive royal assent",
+        "The Governor General creates it",
+        "Citizens vote on it"
+      ],
+      "correctIndex": 1,
+      "explanation": "No bill can become law in Canada until it has been passed by both chambers (House of Commons and Senate) and has received royal assent, granted by the Governor General on behalf of the Sovereign."
+    },
+    {
+      "id": 82,
+      "topic": "government",
+      "question": "How are senators appointed?",
+      "options": [
+        "They are elected by voters",
+        "They are appointed by the Governor General on the advice of the Prime Minister",
+        "They are chosen by the provinces",
+        "They inherit their positions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Senators are appointed by the Governor General on the advice of the Prime Minister and serve until age 75."
+    },
+    {
+      "id": 83,
+      "topic": "elections",
+      "question": "What is a majority government?",
+      "options": [
+        "When the Prime Minister wins by a large margin",
+        "When the party in power holds at least half of the seats in the House of Commons",
+        "When all parties agree on a bill",
+        "When voter turnout is over 50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "A majority government occurs when the party in power holds at least half of the seats in the House of Commons."
+    },
+    {
+      "id": 84,
+      "topic": "elections",
+      "question": "What is a minority government?",
+      "options": [
+        "A government for minority groups",
+        "When the party in power holds less than half of the seats in the House of Commons",
+        "A local government",
+        "A government with no opposition"
+      ],
+      "correctIndex": 1,
+      "explanation": "A minority government occurs when the party in power holds less than half of the seats in the House of Commons."
+    },
+    {
+      "id": 85,
+      "topic": "rights-responsibilities",
+      "question": "What are the two official languages of Canada?",
+      "options": [
+        "English and Spanish",
+        "English and French",
+        "French and Aboriginal",
+        "English and Chinese"
+      ],
+      "correctIndex": 1,
+      "explanation": "English and French are the two official languages of Canada and are important symbols of identity."
+    },
+    {
+      "id": 86,
+      "topic": "history",
+      "question": "When did Nunavut become a territory?",
+      "options": [
+        "1867",
+        "1949",
+        "1999",
+        "2001"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nunavut became a territory in 1999. It was established from the eastern part of the Northwest Territories."
+    },
+    {
+      "id": 87,
+      "topic": "history",
+      "question": "When did Newfoundland and Labrador join Canada?",
+      "options": [
+        "1867",
+        "1905",
+        "1949",
+        "1999"
+      ],
+      "correctIndex": 2,
+      "explanation": "Newfoundland and Labrador joined Canada in 1949, making it the last province to join Confederation."
+    },
+    {
+      "id": 88,
+      "topic": "regions",
+      "question": "What is Saskatchewan known for?",
+      "options": [
+        "Being Canada's breadbasket with 40% of the country's arable land",
+        "Having the highest mountains",
+        "Being the smallest province",
+        "Having the most lakes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Saskatchewan, once known as the 'breadbasket of the world,' has 40% of the arable land in Canada and is the country's largest producer of grains and oilseeds."
+    },
+    {
+      "id": 89,
+      "topic": "regions",
+      "question": "What is Alberta known for?",
+      "options": [
+        "Fishing and shipping",
+        "Oil and gas, and cattle ranching",
+        "Manufacturing automobiles",
+        "Diamond mining"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alberta is the largest producer of oil and gas in Canada, and the oil sands in the north are being developed as a major energy source. It is also renowned for its vast cattle ranches."
+    },
+    {
+      "id": 90,
+      "topic": "regions",
+      "question": "Which province has the world's highest tides?",
+      "options": [
+        "British Columbia",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "Prince Edward Island"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nova Scotia is known for the world's highest tides in the Bay of Fundy."
+    },
+    {
+      "id": 91,
+      "topic": "history",
+      "question": "What happened on D-Day, June 6, 1944?",
+      "options": [
+        "Canada declared independence",
+        "Canadian troops stormed and captured Juno Beach in Normandy",
+        "The War of 1812 ended",
+        "Canada became a country"
+      ],
+      "correctIndex": 1,
+      "explanation": "On D-Day, June 6, 1944, 15,000 Canadian troops stormed and captured Juno Beach from the German Army as part of the Allied invasion of Normandy."
+    },
+    {
+      "id": 92,
+      "topic": "modern-canada",
+      "question": "What military alliance did Canada join in 1949?",
+      "options": [
+        "The United Nations",
+        "NATO (North Atlantic Treaty Organization)",
+        "The Commonwealth",
+        "NORAD"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canada joined NATO (North Atlantic Treaty Organization) in 1949, a military alliance of democratic Western countries formed during the Cold War."
+    },
+    {
+      "id": 93,
+      "topic": "who-we-are",
+      "question": "What is the largest religious affiliation in Canada?",
+      "options": [
+        "Muslim",
+        "Jewish",
+        "Christian (Catholic)",
+        "Hindu"
+      ],
+      "correctIndex": 2,
+      "explanation": "The great majority of Canadians identify as Christians. The largest religious affiliation is Catholic, followed by various Protestant churches."
+    },
+    {
+      "id": 94,
+      "topic": "government",
+      "question": "What is the role of the Premier?",
+      "options": [
+        "Head of the federal government",
+        "Head of a provincial government",
+        "Head of a municipal government",
+        "Representative of the Queen"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Premier is the head of the provincial government, similar to the role of the Prime Minister at the federal level."
+    },
+    {
+      "id": 95,
+      "topic": "government",
+      "question": "Who represents the Sovereign in each province?",
+      "options": [
+        "The Premier",
+        "The Lieutenant Governor",
+        "The Chief Justice",
+        "The Mayor"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Lieutenant Governor represents the Sovereign in each of the ten provinces. They are appointed by the Governor General on the advice of the Prime Minister."
+    },
+    {
+      "id": 96,
+      "topic": "symbols",
+      "question": "What is the fleur-de-lys?",
+      "options": [
+        "A type of Canadian flower",
+        "A symbol of French royalty that appears on Quebec's flag",
+        "A military medal",
+        "A Canadian bird"
+      ],
+      "correctIndex": 1,
+      "explanation": "The fleur-de-lys (lily flower) was the symbol of French royalty for over 1,000 years, including the colony of New France. Quebec adopted its own flag featuring the fleur-de-lys in 1948."
+    },
+    {
+      "id": 97,
+      "topic": "history",
+      "question": "Who was Laura Secord?",
+      "options": [
+        "A famous Canadian singer",
+        "A pioneer who warned British forces of an American attack in 1813",
+        "The first female Prime Minister",
+        "A famous Canadian author"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1813, Laura Secord, a pioneer wife and mother, made a dangerous 30-km journey on foot to warn Lieutenant James FitzGibbon of a planned American attack. She is recognized as a heroine to this day."
+    },
+    {
+      "id": 98,
+      "topic": "history",
+      "question": "What was the Royal Proclamation of 1763?",
+      "options": [
+        "The document that created Canada",
+        "A document that first guaranteed Aboriginal territorial rights",
+        "The Canadian Constitution",
+        "A declaration of war against France"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Royal Proclamation of 1763 by King George III first guaranteed Aboriginal territorial rights and established the basis for negotiating treaties with newcomers."
+    },
+    {
+      "id": 99,
+      "topic": "modern-canada",
+      "question": "What is the Canadarm?",
+      "options": [
+        "A Canadian sports team",
+        "A robotic arm used in outer space, invented in Canada",
+        "A military weapon",
+        "A type of Canadian flag"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Canadarm is a robotic arm used in outer space, invented by SPAR Aerospace and the National Research Council. Canadian astronauts have used it in space exploration since 1989."
+    },
+    {
+      "id": 100,
+      "topic": "regions",
+      "question": "What are the Northern Territories often called?",
+      "options": [
+        "The Great White North",
+        "The Land of the Midnight Sun",
+        "The Arctic Circle",
+        "The Frozen Tundra"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Northern Territories are often referred to as the 'Land of the Midnight Sun' because at the height of summer, daylight can last up to 24 hours."
+    },
+    {
+      "id": 101,
+      "topic": "rights-responsibilities",
+      "question": "What does Mobility Rights mean?",
+      "options": [
+        "The right to own a car",
+        "Canadians can live and work anywhere they choose in Canada",
+        "The right to travel for free",
+        "The right to move to another country"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mobility Rights mean that Canadians can live and work anywhere they choose in Canada, enter and leave the country freely, and apply for a passport."
+    },
+    {
+      "id": 102,
+      "topic": "history",
+      "question": "Who were the United Empire Loyalists?",
+      "options": [
+        "French settlers who came to Canada",
+        "People loyal to the British Crown who fled the American Revolution",
+        "Aboriginal peoples who supported Britain",
+        "Canadian soldiers in World War I"
+      ],
+      "correctIndex": 1,
+      "explanation": "United Empire Loyalists were more than 40,000 people loyal to the British Crown who fled the oppression of the American Revolution to settle in Nova Scotia and Quebec."
+    },
+    {
+      "id": 103,
+      "topic": "history",
+      "question": "What was Sir Louis-Hippolyte La Fontaine known for?",
+      "options": [
+        "Building the Canadian Pacific Railway",
+        "Being a champion of democracy and French language rights",
+        "Discovering insulin",
+        "Being the first Prime Minister"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sir Louis-Hippolyte La Fontaine was a champion of democracy and French language rights. He became the first leader of a responsible government in the Canadas in 1849."
+    },
+    {
+      "id": 104,
+      "topic": "government",
+      "question": "What are municipal governments responsible for?",
+      "options": [
+        "Defence and foreign policy",
+        "Education and healthcare",
+        "Snow removal, firefighting, policing, and local services",
+        "Currency and banking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Municipal (local) governments are responsible for snow removal, firefighting, ambulance and emergency services, recycling programs, transportation, policing, and other local services."
+    },
+    {
+      "id": 105,
+      "topic": "elections",
+      "question": "When are federal elections held?",
+      "options": [
+        "Every two years",
+        "On the third Monday in October every four years",
+        "Whenever the Prime Minister decides",
+        "Every five years on July 1st"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under legislation passed by Parliament, federal elections must be held on the third Monday in October every four years following the most recent general election."
+    },
+    {
+      "id": 106,
+      "topic": "symbols",
+      "question": "What does the Peace Tower contain?",
+      "options": [
+        "The Prime Minister's office",
+        "The Memorial Chamber with the Books of Remembrance",
+        "The Supreme Court",
+        "The Senate chamber"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Peace Tower was completed in 1927 in memory of the First World War. The Memorial Chamber within the Tower contains the Books of Remembrance with the names of soldiers, sailors, and airmen who died serving Canada."
+    },
+    {
+      "id": 107,
+      "topic": "economy",
+      "question": "What is NAFTA?",
+      "options": [
+        "A Canadian political party",
+        "The North American Free Trade Agreement",
+        "A Canadian sports league",
+        "A military alliance"
+      ],
+      "correctIndex": 1,
+      "explanation": "NAFTA is the North American Free Trade Agreement, a trade agreement between Canada, the United States, and Mexico that came into effect in 1994."
+    },
+    {
+      "id": 108,
+      "topic": "history",
+      "question": "What did the Quebec Act of 1774 do?",
+      "options": [
+        "Made Quebec an independent country",
+        "Allowed religious freedom for Catholics and restored French civil law",
+        "Created the Canadian flag",
+        "Started the War of 1812"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Quebec Act of 1774 allowed religious freedom for Catholics, permitted them to hold public office, and restored French civil law while maintaining British criminal law."
+    },
+    {
+      "id": 109,
+      "topic": "who-we-are",
+      "question": "What year did the federal government formally apologize for residential schools?",
+      "options": [
+        "1982",
+        "1999",
+        "2008",
+        "2015"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 2008, Ottawa formally apologized to the former students of residential schools, where Aboriginal children were placed from the 1800s until the 1980s."
+    },
+    {
+      "id": 110,
+      "topic": "symbols",
+      "question": "Who invented basketball?",
+      "options": [
+        "An American athlete",
+        "James Naismith, a Canadian",
+        "A British sports coach",
+        "A French educator"
+      ],
+      "correctIndex": 1,
+      "explanation": "Basketball was invented by Canadian James Naismith in 1891."
+    }
+  ]
+}
