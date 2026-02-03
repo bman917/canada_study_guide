@@ -30,7 +30,7 @@ function App() {
             <p className="mb-2">
               Based on the official "Discover Canada: The Rights and Responsibilities of Citizenship" study guide
             </p>
-            <p className="text-gray-400">
+            <p className="text-gray-400 mb-3">
               For official information, visit{' '}
               <a href="https://www.canada.ca/en/immigration-refugees-citizenship.html"
                  className="text-red-400 hover:underline"
@@ -38,6 +38,9 @@ function App() {
                  rel="noopener noreferrer">
                 www.canada.ca
               </a>
+            </p>
+            <p className="text-gray-500 text-xs">
+              Created by Jacky • <a href="mailto:bman917@gmail.com" className="hover:text-gray-300">bman917@gmail.com</a>
             </p>
           </div>
         </footer>

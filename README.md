@@ -155,6 +155,10 @@ npm install -g vercel
 vercel
 ```
 
+## Author
+
+Created by **Jacky** (bman917@gmail.com)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests with:

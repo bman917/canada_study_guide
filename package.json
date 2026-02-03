@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "Study guide and practice tests for the Canadian citizenship exam",
+  "author": "Jacky <bman917@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite",
