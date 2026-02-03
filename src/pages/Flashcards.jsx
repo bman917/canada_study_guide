@@ -58,7 +58,7 @@ export default function Flashcards() {
           Card {currentIndex + 1} of {totalCards}
         </div>
 
-        <Flashcard front={currentCard.front} back={currentCard.back} />
+        <Flashcard key={currentIndex} front={currentCard.front} back={currentCard.back} />
 
         <div className="flex justify-between items-center mt-4 sm:mt-6 gap-2">
           <button
