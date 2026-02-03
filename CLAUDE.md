@@ -29,6 +29,7 @@ All exam content is stored in static JSON files in `src/data/`:
 - `questions.json`: 299 quiz questions organized by 10 topics, with correct answers and detailed explanations. Includes both federal questions and provincial-specific content (premiers, capitals, economies).
 - `flashcards.json`: Flashcard sets for memorization
 - `studyContent.json`: Reference materials organized by topic
+- `discover-canada/`: Complete official "Discover Canada" study guide in markdown format (14 files covering all chapters: introduction, rights/responsibilities, history, government, elections, justice, symbols, economy, regions, study questions, and appendix)
 
 **Data Sources**:
 - Official "Discover Canada" study guide
