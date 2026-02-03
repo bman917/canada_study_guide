@@ -3,13 +3,13 @@ export default function ProgressBar({ current, total, label }) {
 
   return (
     <div className="w-full">
-      <div className="flex justify-between mb-1 text-sm">
+      <div className="flex justify-between mb-1 text-xs sm:text-sm">
         <span className="font-medium text-gray-700">{label}</span>
         <span className="text-gray-600">{current} / {total}</span>
       </div>
-      <div className="w-full bg-gray-200 rounded-full h-2.5">
+      <div className="w-full bg-gray-200 rounded-full h-2 sm:h-2.5">
         <div
-          className="bg-red-600 h-2.5 rounded-full transition-all duration-300"
+          className="bg-red-600 h-2 sm:h-2.5 rounded-full transition-all duration-300"
           style={{ width: `${percentage}%` }}
         />
       </div>

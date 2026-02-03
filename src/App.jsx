@@ -14,7 +14,7 @@ function App() {
       <div className="min-h-screen bg-gray-50">
         <Header />
         <Navigation />
-        <main className="container mx-auto px-4 py-8">
+        <main className="container mx-auto px-3 sm:px-4 py-4 sm:py-6 md:py-8">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/practice" element={<PracticeQuiz />} />
@@ -25,15 +25,15 @@ function App() {
             <Route path="/progress" element={<Progress />} />
           </Routes>
         </main>
-        <footer className="bg-gray-800 text-white py-6 mt-12">
-          <div className="container mx-auto px-4 text-center text-sm">
-            <p className="mb-2">
+        <footer className="bg-gray-800 text-white py-4 sm:py-6 mt-8 sm:mt-12">
+          <div className="container mx-auto px-4 text-center text-xs sm:text-sm">
+            <p className="mb-2 leading-relaxed">
               Based on the official "Discover Canada: The Rights and Responsibilities of Citizenship" study guide
             </p>
             <p className="text-gray-400 mb-3">
               For official information, visit{' '}
               <a href="https://www.canada.ca/en/immigration-refugees-citizenship.html"
-                 className="text-red-400 hover:underline"
+                 className="text-red-400 hover:underline break-all sm:break-normal"
                  target="_blank"
                  rel="noopener noreferrer">
                 www.canada.ca

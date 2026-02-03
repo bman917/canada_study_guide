@@ -61,15 +61,15 @@ export default function MockExam() {
   if (!examStarted) {
     return (
       <div className="max-w-2xl mx-auto">
-        <div className="bg-white rounded-lg shadow-lg p-8">
-          <h1 className="text-3xl font-bold mb-4 text-gray-800">Mock Citizenship Exam</h1>
-          <p className="text-gray-600 mb-6">
+        <div className="bg-white rounded-lg shadow-lg p-4 sm:p-6 md:p-8">
+          <h1 className="text-2xl sm:text-3xl font-bold mb-3 sm:mb-4 text-gray-800">Mock Citizenship Exam</h1>
+          <p className="text-sm sm:text-base text-gray-600 mb-4 sm:mb-6">
             This mock exam simulates the actual Canadian citizenship test.
           </p>
 
-          <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-6">
-            <h3 className="font-bold text-yellow-900 mb-2">Exam Format</h3>
-            <ul className="text-sm text-yellow-800 space-y-1">
+          <div className="bg-yellow-50 border-l-4 border-yellow-400 p-3 sm:p-4 mb-4 sm:mb-6">
+            <h3 className="font-bold text-yellow-900 mb-2 text-sm sm:text-base">Exam Format</h3>
+            <ul className="text-xs sm:text-sm text-yellow-800 space-y-1">
               <li>• 20 multiple choice questions</li>
               <li>• 45 minutes to complete</li>
               <li>• Questions from all topics</li>
@@ -78,9 +78,9 @@ export default function MockExam() {
             </ul>
           </div>
 
-          <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
-            <h3 className="font-bold text-blue-900 mb-2">Tips for Success</h3>
-            <ul className="text-sm text-blue-800 space-y-1">
+          <div className="bg-blue-50 border border-blue-200 rounded-lg p-3 sm:p-4 mb-4 sm:mb-6">
+            <h3 className="font-bold text-blue-900 mb-2 text-sm sm:text-base">Tips for Success</h3>
+            <ul className="text-xs sm:text-sm text-blue-800 space-y-1">
               <li>• Read each question carefully</li>
               <li>• Manage your time (about 2 minutes per question)</li>
               <li>• Answer all questions - there's no penalty for guessing</li>
@@ -90,7 +90,7 @@ export default function MockExam() {
 
           <button
             onClick={handleStartExam}
-            className="w-full px-6 py-4 bg-red-600 text-white rounded-lg font-bold text-lg hover:bg-red-700 transition"
+            className="w-full px-5 sm:px-6 py-3 sm:py-4 min-h-[44px] bg-red-600 text-white rounded-lg font-bold text-base sm:text-lg hover:bg-red-700 transition"
           >
             Start Mock Exam
           </button>
@@ -101,7 +101,7 @@ export default function MockExam() {
 
   return (
     <div className="max-w-3xl mx-auto">
-      <div className="mb-6">
+      <div className="mb-4 sm:mb-6">
         <Timer
           duration={EXAM_DURATION}
           onTimeUp={handleTimeUp}

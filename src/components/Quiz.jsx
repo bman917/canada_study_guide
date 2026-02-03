@@ -35,7 +35,7 @@ export default function Quiz({ questions, onComplete, showFeedback = true }) {
 
   return (
     <div className="max-w-3xl mx-auto">
-      <div className="mb-6">
+      <div className="mb-4 sm:mb-6">
         <ProgressBar
           current={currentIndex + 1}
           total={questions.length}
@@ -43,12 +43,12 @@ export default function Quiz({ questions, onComplete, showFeedback = true }) {
         />
       </div>
 
-      <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
-        <h2 className="text-xl font-semibold mb-6 text-gray-800">
+      <div className="bg-white rounded-lg shadow-lg p-4 sm:p-6 mb-4 sm:mb-6">
+        <h2 className="text-lg sm:text-xl font-semibold mb-4 sm:mb-6 text-gray-800 leading-relaxed">
           {currentQuestion.question}
         </h2>
 
-        <div className="space-y-3">
+        <div className="space-y-2 sm:space-y-3">
           {currentQuestion.options.map((option, index) => {
             const isSelected = selectedAnswer === index;
             const isCorrectAnswer = index === currentQuestion.correctIndex;
@@ -60,7 +60,7 @@ export default function Quiz({ questions, onComplete, showFeedback = true }) {
                 key={index}
                 onClick={() => handleSelectAnswer(index)}
                 disabled={showExplanation && showFeedback}
-                className={`w-full text-left p-4 rounded-lg border-2 transition ${
+                className={`w-full text-left p-3 sm:p-4 min-h-[44px] rounded-lg border-2 transition ${
                   showCorrect
                     ? 'border-green-500 bg-green-50'
                     : showIncorrect
@@ -70,8 +70,8 @@ export default function Quiz({ questions, onComplete, showFeedback = true }) {
                     : 'border-gray-300 hover:border-red-400 hover:bg-gray-50'
                 } ${showExplanation && showFeedback ? 'cursor-not-allowed' : 'cursor-pointer'}`}
               >
-                <div className="flex items-center gap-3">
-                  <div className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
+                <div className="flex items-center gap-2 sm:gap-3">
+                  <div className={`w-5 h-5 sm:w-6 sm:h-6 flex-shrink-0 rounded-full border-2 flex items-center justify-center ${
                     showCorrect
                       ? 'border-green-500 bg-green-500'
                       : showIncorrect
@@ -80,11 +80,11 @@ export default function Quiz({ questions, onComplete, showFeedback = true }) {
                       ? 'border-red-600 bg-red-600'
                       : 'border-gray-400'
                   }`}>
-                    {showCorrect && <span className="text-white text-sm">✓</span>}
-                    {showIncorrect && <span className="text-white text-sm">✗</span>}
-                    {!showExplanation && isSelected && <div className="w-3 h-3 bg-white rounded-full" />}
+                    {showCorrect && <span className="text-white text-xs sm:text-sm">✓</span>}
+                    {showIncorrect && <span className="text-white text-xs sm:text-sm">✗</span>}
+                    {!showExplanation && isSelected && <div className="w-2.5 h-2.5 sm:w-3 sm:h-3 bg-white rounded-full" />}
                   </div>
-                  <span className={`flex-1 ${
+                  <span className={`flex-1 text-sm sm:text-base leading-relaxed ${
                     showCorrect ? 'text-green-800 font-medium' : showIncorrect ? 'text-red-800' : 'text-gray-700'
                   }`}>
                     {option}
@@ -97,13 +97,13 @@ export default function Quiz({ questions, onComplete, showFeedback = true }) {
       </div>
 
       {showExplanation && showFeedback && (
-        <div className={`rounded-lg p-4 mb-6 ${
+        <div className={`rounded-lg p-3 sm:p-4 mb-4 sm:mb-6 ${
           isCorrect ? 'bg-green-50 border border-green-200' : 'bg-red-50 border border-red-200'
         }`}>
-          <p className={`font-semibold mb-2 ${isCorrect ? 'text-green-800' : 'text-red-800'}`}>
+          <p className={`font-semibold mb-2 text-sm sm:text-base ${isCorrect ? 'text-green-800' : 'text-red-800'}`}>
             {isCorrect ? '✓ Correct!' : '✗ Incorrect'}
           </p>
-          <p className="text-gray-700">{currentQuestion.explanation}</p>
+          <p className="text-sm sm:text-base text-gray-700 leading-relaxed">{currentQuestion.explanation}</p>
         </div>
       )}
 
@@ -111,7 +111,7 @@ export default function Quiz({ questions, onComplete, showFeedback = true }) {
         <button
           onClick={handleNext}
           disabled={selectedAnswer === null}
-          className="px-6 py-3 bg-red-600 text-white rounded-lg font-medium hover:bg-red-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition"
+          className="px-5 sm:px-6 py-3 min-h-[44px] bg-red-600 text-white rounded-lg font-medium hover:bg-red-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition text-sm sm:text-base"
         >
           {isLastQuestion ? 'Finish' : 'Next Question'}
         </button>

@@ -26,10 +26,10 @@ export default function Timer({ duration, onTimeUp, isActive }) {
   const isMediumTime = percentage < 50 && percentage >= 20;
 
   return (
-    <div className="bg-white rounded-lg shadow p-4">
+    <div className="bg-white rounded-lg shadow p-3 sm:p-4">
       <div className="flex items-center justify-between mb-2">
-        <span className="text-sm font-medium text-gray-700">Time Remaining</span>
-        <span className={`text-2xl font-bold ${
+        <span className="text-xs sm:text-sm font-medium text-gray-700">Time Remaining</span>
+        <span className={`text-xl sm:text-2xl font-bold ${
           isLowTime ? 'text-red-600' : isMediumTime ? 'text-yellow-600' : 'text-green-600'
         }`}>
           {formatTime(timeLeft)}
