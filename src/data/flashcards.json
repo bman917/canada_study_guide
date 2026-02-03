@@ -48,19 +48,19 @@
       "name": "Provinces & Capitals",
       "cards": [
         { "front": "What is the capital of Canada?", "back": "Ottawa" },
-        { "front": "Capital of Ontario", "back": "Toronto" },
-        { "front": "Capital of Quebec", "back": "Quebec City" },
-        { "front": "Capital of British Columbia", "back": "Victoria" },
-        { "front": "Capital of Alberta", "back": "Edmonton" },
-        { "front": "Capital of Saskatchewan", "back": "Regina" },
-        { "front": "Capital of Manitoba", "back": "Winnipeg" },
-        { "front": "Capital of Nova Scotia", "back": "Halifax" },
-        { "front": "Capital of New Brunswick", "back": "Fredericton" },
-        { "front": "Capital of Prince Edward Island", "back": "Charlottetown" },
-        { "front": "Capital of Newfoundland and Labrador", "back": "St. John's" },
-        { "front": "Capital of Yukon", "back": "Whitehorse" },
-        { "front": "Capital of Northwest Territories", "back": "Yellowknife" },
-        { "front": "Capital of Nunavut", "back": "Iqaluit" }
+        { "front": "Capital of Ontario (ON)", "back": "Toronto" },
+        { "front": "Capital of Quebec (QC)", "back": "Quebec City" },
+        { "front": "Capital of British Columbia (BC)", "back": "Victoria" },
+        { "front": "Capital of Alberta (AB)", "back": "Edmonton" },
+        { "front": "Capital of Saskatchewan (SK)", "back": "Regina" },
+        { "front": "Capital of Manitoba (MB)", "back": "Winnipeg" },
+        { "front": "Capital of Nova Scotia (NS)", "back": "Halifax" },
+        { "front": "Capital of New Brunswick (NB)", "back": "Fredericton" },
+        { "front": "Capital of Prince Edward Island (PEI)", "back": "Charlottetown" },
+        { "front": "Capital of Newfoundland and Labrador (NL)", "back": "St. John's" },
+        { "front": "Capital of Yukon (YT)", "back": "Whitehorse" },
+        { "front": "Capital of Northwest Territories (NT)", "back": "Yellowknife" },
+        { "front": "Capital of Nunavut (NU)", "back": "Iqaluit" }
       ]
     },
     {
@@ -116,15 +116,15 @@
       "id": "regions",
       "name": "Regions & Geography",
       "cards": [
-        { "front": "Which are the Atlantic Provinces?", "back": "Newfoundland and Labrador, PEI, Nova Scotia, New Brunswick" },
-        { "front": "Which are the Prairie Provinces?", "back": "Manitoba, Saskatchewan, Alberta" },
-        { "front": "Which is the smallest province?", "back": "Prince Edward Island" },
-        { "front": "Which province is the birthplace of Confederation?", "back": "Prince Edward Island" },
-        { "front": "Which is the only officially bilingual province?", "back": "New Brunswick" },
+        { "front": "Which are the Atlantic Provinces?", "back": "Newfoundland and Labrador (NL), Prince Edward Island (PEI), Nova Scotia (NS), New Brunswick (NB)" },
+        { "front": "Which are the Prairie Provinces?", "back": "Manitoba (MB), Saskatchewan (SK), Alberta (AB)" },
+        { "front": "Which is the smallest province?", "back": "Prince Edward Island (PEI)" },
+        { "front": "Which province is the birthplace of Confederation?", "back": "Prince Edward Island (PEI)" },
+        { "front": "Which is the only officially bilingual province?", "back": "New Brunswick (NB)" },
         { "front": "What is the largest freshwater lake in the world?", "back": "Lake Superior" },
-        { "front": "What is the highest mountain in Canada?", "back": "Mount Logan (in Yukon)" },
+        { "front": "What is the highest mountain in Canada?", "back": "Mount Logan (in Yukon (YT))" },
         { "front": "What are the five Great Lakes?", "back": "Superior, Huron, Ontario, Erie, Michigan" },
-        { "front": "What province has the world's highest tides?", "back": "Nova Scotia (Bay of Fundy)" },
+        { "front": "What province has the world's highest tides?", "back": "Nova Scotia (NS) (Bay of Fundy)" },
         { "front": "What is the 'Land of the Midnight Sun'?", "back": "The Northern Territories" }
       ]
     },
@@ -139,7 +139,7 @@
         { "front": "What percentage of Aboriginal people are First Nations?", "back": "About 65%" },
         { "front": "What language do the Metis speak?", "back": "Michif" },
         { "front": "What was the Royal Proclamation of 1763?", "back": "First guaranteed Aboriginal territorial rights" },
-        { "front": "What territory has the highest Inuit population?", "back": "Nunavut (about 85%)" },
+        { "front": "What territory has the highest Inuit population?", "back": "Nunavut (NU) (about 85%)" },
         { "front": "What does 'Nunavut' mean?", "back": "Our land (in Inuktitut)" }
       ]
     }
