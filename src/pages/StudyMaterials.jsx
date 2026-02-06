@@ -58,12 +58,19 @@ export default function StudyMaterials() {
 
             <h3 className="text-base sm:text-lg font-bold mb-3 text-gray-800">Key Facts to Remember</h3>
             <ul className="space-y-2 sm:space-y-3">
-              {selectedTopic.keyFacts.map((fact, index) => (
-                <li key={index} className="flex gap-2 sm:gap-3">
-                  <span className="text-red-600 font-bold flex-shrink-0">•</span>
-                  <span className="text-sm sm:text-base text-gray-700 leading-relaxed">{fact}</span>
-                </li>
-              ))}
+              {selectedTopic.keyFacts.filter(fact => fact !== '').map((fact, index) => {
+                const isHeader = /^[A-Z][A-Z\s/&]+:$/.test(fact);
+                return isHeader ? (
+                  <li key={index} className="pt-3 first:pt-0">
+                    <span className="text-xs sm:text-sm font-semibold text-red-700 uppercase tracking-wide">{fact}</span>
+                  </li>
+                ) : (
+                  <li key={index} className="flex gap-2 sm:gap-3">
+                    <span className="text-red-600 font-bold flex-shrink-0">•</span>
+                    <span className="text-sm sm:text-base text-gray-700 leading-relaxed">{fact}</span>
+                  </li>
+                );
+              })}
             </ul>
           </div>
         </div>
