@@ -98,7 +98,13 @@ Established three objectives:
 
 **"O Canada"** became the official anthem in **1980**.
 
+The English version begins: **"O Canada! Our home and native land!"**
+
 There are distinct French and English versions.
+
+### Royal Anthem
+
+**"God Save the King"** (or Queen) is Canada's Royal Anthem, played in the presence of the Sovereign or the Governor General.
 
 ---
 

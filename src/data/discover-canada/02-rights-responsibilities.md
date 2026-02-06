@@ -4,6 +4,8 @@
 
 Canadian rights derive from multiple legal traditions. Canada has an 800-year old tradition of ordered liberty dating back to the **Magna Carta (1215)**, which established foundational freedoms.
 
+**Habeas corpus**, the right to challenge unlawful detention by the state, comes from English common law and remains a cornerstone of Canadian legal protections.
+
 ---
 
 ## Rights of Canadian Citizens

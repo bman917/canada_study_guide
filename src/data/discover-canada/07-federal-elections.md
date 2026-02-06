@@ -2,7 +2,7 @@
 
 ## Electoral System Basics
 
-- Canada has **308 electoral districts** (also called ridings or constituencies)
+- Canada has **338 electoral districts** (also called ridings or constituencies)
 - Each riding elects one **Member of Parliament (MP)**
 - Federal elections must be held on the **third Monday in October every four years** following the most recent general election
 - The Prime Minister can request an earlier election
@@ -62,6 +62,8 @@ The leader of the party winning the most House of Commons seats is invited to fo
 | **Minority Government** | Party holds less than half the seats |
 
 The Prime Minister selects Cabinet ministers, who lead federal departments and propose budgets and legislation.
+
+**Responsible government** means the ministers of the Crown must have the support of a majority of elected representatives. If they lose a **confidence vote** in the House of Commons, they must resign.
 
 ---
 
