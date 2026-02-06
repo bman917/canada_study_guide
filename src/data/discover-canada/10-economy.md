@@ -8,20 +8,21 @@ Canada maintains its standard of living through international commerce.
 
 - **1988:** Canada enacted free trade with the United States
 - **1994:** Expanded to include Mexico through **NAFTA** (North American Free Trade Agreement)
+- **2020:** NAFTA replaced by **USMCA** (United States-Mexico-Canada Agreement)
 - The agreement encompasses over **444 million people**
 - Exceeded **$1 trillion** in merchandise trade by 2008
 
 ### Global Standing
 
 - Canada ranks among the **world's ten largest economies**
-- Participates in the **G8 group** alongside:
+- Participates in the **G7 group** (formerly G8) alongside:
   - United States
   - Germany
   - United Kingdom
   - Italy
   - France
   - Japan
-  - Russia
+  - (Russia was suspended in 2014)
 
 ---
 

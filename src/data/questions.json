@@ -1704,19 +1704,6 @@
       "explanation": "Central Canada (Ontario and Quebec) is home to more than half of Canada's population."
     },
     {
-      "id": 128,
-      "topic": "economy",
-      "question": "Name all the federal political parties in the House of Commons and their leaders.",
-      "options": [
-        "Conservative (Andrew Scheer - interim leader), NDP (Don Davies - interim leader), Liberal (Mark Carney), Bloc Quebecois (Blanchet), Green Party (May).",
-        "Conservative (Poilievre), Green (May), Liberal (Trudeau), Bloc Quebecois (Duceppe).",
-        "NDP (Mulcair), Green (May), Liberal (Rae), Bloc Quebecois (Paillé).",
-        "Liberal (Ignatieff), Conservative (Ambrose), NDP (Turmel), Green (May)."
-      ],
-      "correctIndex": 0,
-      "explanation": "The major federal parties include the Liberal Party, Conservative Party, NDP, Bloc Québécois, and Green Party with their respective leaders."
-    },
-    {
       "id": 129,
       "topic": "rights-responsibilities",
       "question": "Name six responsibilities of citizenship.",
@@ -2134,19 +2121,6 @@
     },
     {
       "id": 161,
-      "topic": "economy",
-      "question": "What is the name of the Prime Minister of Canada and his/her party?",
-      "options": [
-        "Mark Carney (Liberal Party).",
-        "Pierre Poilievre (Conservative Party).",
-        "Jagmeet Singh (New Democratic Party).",
-        "Pierre Trudeau (Liberal Party)."
-      ],
-      "correctIndex": 0,
-      "explanation": "Mark Carney (Liberal Party). This is an important fact about Canada."
-    },
-    {
-      "id": 162,
       "topic": "symbols",
       "question": "What is the name of the Royal Anthem of Canada?",
       "options": [
@@ -2159,7 +2133,7 @@
       "explanation": "God Save the King is the Royal Anthem, played in the presence of the Sovereign or Governor General."
     },
     {
-      "id": 163,
+      "id": 162,
       "topic": "justice",
       "question": "What is the role of the courts in Canada?",
       "options": [
@@ -2172,7 +2146,7 @@
       "explanation": "Courts settle disputes and interpret laws fairly, upholding the rule of law and the Constitution."
     },
     {
-      "id": 164,
+      "id": 163,
       "topic": "government",
       "question": "What is the role of the Opposition parties?",
       "options": [
@@ -2185,7 +2159,7 @@
       "explanation": "Opposition parties peacefully oppose or try to improve government proposals, providing alternative policies."
     },
     {
-      "id": 165,
+      "id": 164,
       "topic": "modern-canada",
       "question": "What is the significance of the discovery of insulin by Sir Frederick Banting and Charles Best?",
       "options": [
@@ -2198,7 +2172,7 @@
       "explanation": "Insulin, discovered by Banting and Best in 1921, has saved millions of lives by providing treatment for diabetes."
     },
     {
-      "id": 166,
+      "id": 165,
       "topic": "rights-responsibilities",
       "question": "What part of the Constitution legally protects the basic rights and freedoms of all Canadians?",
       "options": [
@@ -2211,7 +2185,7 @@
       "explanation": "The Canadian Charter of Rights and Freedoms legally protects the basic rights and freedoms of all Canadians."
     },
     {
-      "id": 167,
+      "id": 166,
       "topic": "justice",
       "question": "What should you do if you do not receive a voter information card telling you when and where to vote?",
       "options": [
@@ -2224,7 +2198,7 @@
       "explanation": "A voter information card tells you when and where to vote in your electoral district."
     },
     {
-      "id": 168,
+      "id": 167,
       "topic": "symbols",
       "question": "What song is Canada's national anthem?",
       "options": [
@@ -2237,7 +2211,7 @@
       "explanation": "O Canada. This is an important fact about Canada."
     },
     {
-      "id": 169,
+      "id": 168,
       "topic": "regions",
       "question": "What three oceans border Canada?",
       "options": [
@@ -2250,7 +2224,7 @@
       "explanation": "Atlantic, Arctic and Pacific. This is an important fact about Canada."
     },
     {
-      "id": 170,
+      "id": 169,
       "topic": "history",
       "question": "What was the significance of June 6, 1944 invasion of Normandy?",
       "options": [
@@ -2263,7 +2237,7 @@
       "explanation": "The correct answer is Canadians made a significant contribution to the defeat of Nazism and Fascism in Europe during the Second World War.."
     },
     {
-      "id": 171,
+      "id": 170,
       "topic": "history",
       "question": "What was the Women's Suffrage Movement?",
       "options": [
@@ -2276,7 +2250,7 @@
       "explanation": "The correct answer is The effort by women to achieve the right to vote.."
     },
     {
-      "id": 172,
+      "id": 171,
       "topic": "government",
       "question": "What will you promise when you take the Oath of Citizenship?",
       "options": [
@@ -2289,7 +2263,7 @@
       "explanation": "The correct answer is Pledge allegiance to the King, observe the laws of Canada and fulfil the duties of a Canadian.."
     },
     {
-      "id": 173,
+      "id": 172,
       "topic": "history",
       "question": "What year was Confederation?",
       "options": [
@@ -2302,7 +2276,7 @@
       "explanation": "The correct answer is 1867.."
     },
     {
-      "id": 174,
+      "id": 173,
       "topic": "justice",
       "question": "When asked, who must you tell how you voted in a federal election?",
       "options": [
@@ -2315,7 +2289,7 @@
       "explanation": "You are not required to tell anyone how you voted. The secret ballot protects your privacy."
     },
     {
-      "id": 175,
+      "id": 174,
       "topic": "history",
       "question": "When did the British North America Act come into effect?",
       "options": [
@@ -2328,7 +2302,7 @@
       "explanation": "The British North America Act came into effect on July 1, 1867, creating the Dominion of Canada."
     },
     {
-      "id": 176,
+      "id": 175,
       "topic": "history",
       "question": "When is Canada Day and what does it celebrate?",
       "options": [
@@ -2341,7 +2315,7 @@
       "explanation": "Canada Day is celebrated July 1st to commemorate Confederation in 1867."
     },
     {
-      "id": 177,
+      "id": 176,
       "topic": "government",
       "question": "When is Remembrance Day celebrated?",
       "options": [
@@ -2354,7 +2328,7 @@
       "explanation": "Remembrance Day is celebrated November 11th to honour those who served and died in wars."
     },
     {
-      "id": 178,
+      "id": 177,
       "topic": "elections",
       "question": "When you vote on election day, what do you do?",
       "options": [
@@ -2367,7 +2341,7 @@
       "explanation": "On election day, you show ID, mark an X for your candidate, and deposit the ballot in the box."
     },
     {
-      "id": 179,
+      "id": 178,
       "topic": "regions",
       "question": "Where are the Great Lakes?",
       "options": [
@@ -2380,7 +2354,7 @@
       "explanation": "The Great Lakes are between Ontario and the United States: Superior, Michigan, Huron, Erie, and Ontario."
     },
     {
-      "id": 180,
+      "id": 179,
       "topic": "government",
       "question": "Where are the Parliament Buildings located?",
       "options": [
@@ -2393,7 +2367,7 @@
       "explanation": "The Parliament Buildings are located in Ottawa on Parliament Hill."
     },
     {
-      "id": 181,
+      "id": 180,
       "topic": "government",
       "question": "Where do most French-speaking Canadians live?",
       "options": [
@@ -2406,7 +2380,7 @@
       "explanation": "Most French-speaking Canadians live in Quebec, where French is the official language."
     },
     {
-      "id": 182,
+      "id": 181,
       "topic": "government",
       "question": "Where does Canada rank in the world's largest countries?",
       "options": [
@@ -2419,7 +2393,7 @@
       "explanation": "Canada ranks second in the world by total area after Russia."
     },
     {
-      "id": 183,
+      "id": 182,
       "topic": "history",
       "question": "Which Act granted, for the first time in Canada, legislative assemblies elected by the people?",
       "options": [
@@ -2432,7 +2406,7 @@
       "explanation": "The Constitutional Act of 1791. This is an important fact about Canada."
     },
     {
-      "id": 184,
+      "id": 183,
       "topic": "government",
       "question": "Which country borders Canada on the south?",
       "options": [
@@ -2445,20 +2419,7 @@
       "explanation": "United States of America. This is an important fact about Canada."
     },
     {
-      "id": 185,
-      "topic": "government",
-      "question": "Which federal political party is in power?",
-      "options": [
-        "Green Party.",
-        "New Democratic Party.",
-        "Liberal Party.",
-        "Conservative Party."
-      ],
-      "correctIndex": 2,
-      "explanation": "The Liberal Party. forms the government."
-    },
-    {
-      "id": 186,
+      "id": 184,
       "topic": "government",
       "question": "Which of the following is NOT a feature of Canada's system of government?",
       "options": [
@@ -2471,7 +2432,7 @@
       "explanation": "Dictatorship. is NOT a feature of Canada's system of government."
     },
     {
-      "id": 187,
+      "id": 185,
       "topic": "history",
       "question": "Which of the following sentences best describes the War of 1812?",
       "options": [
@@ -2484,7 +2445,7 @@
       "explanation": "The War of 1812 saw the USA invade Canada. The invasion was defeated, ensuring Canada would remain independent of the United States."
     },
     {
-      "id": 188,
+      "id": 186,
       "topic": "who-we-are",
       "question": "Which of the following statements about residential schools is NOT true?",
       "options": [
@@ -2497,7 +2458,7 @@
       "explanation": "The statement that residential schools were welcomed by Aboriginal people is false. These schools were part of an assimilation policy that caused great harm."
     },
     {
-      "id": 189,
+      "id": 187,
       "topic": "elections",
       "question": "Which party becomes the Official Opposition?",
       "options": [
@@ -2510,20 +2471,7 @@
       "explanation": "The party with the second-most MPs becomes the Official Opposition, with the role of opposing or improving government proposals."
     },
     {
-      "id": 190,
-      "topic": "elections",
-      "question": "Which party is the Official Opposition at the federal level?",
-      "options": [
-        "The New Democratic Party.",
-        "The Liberal Party.",
-        "The Independent Party.",
-        "The Conservative Party."
-      ],
-      "correctIndex": 3,
-      "explanation": "The party with the second-most MPs becomes the Official Opposition, with the role of opposing or improving government proposals."
-    },
-    {
-      "id": 191,
+      "id": 188,
       "topic": "economy",
       "question": "Which port is the largest and busiest in Canada?",
       "options": [
@@ -2536,7 +2484,7 @@
       "explanation": "The Port of Vancouver is Canada's largest and busiest port, serving as the Pacific Gateway."
     },
     {
-      "id": 192,
+      "id": 189,
       "topic": "regions",
       "question": "Which province has its own time zone?",
       "options": [
@@ -2549,7 +2497,7 @@
       "explanation": "Newfoundland and Labrador has its own time zone (Newfoundland Time), 30 minutes ahead of Atlantic Time."
     },
     {
-      "id": 193,
+      "id": 190,
       "topic": "regions",
       "question": "Which province in Canada is the smallest in land size?",
       "options": [
@@ -2562,7 +2510,7 @@
       "explanation": "Prince Edward Island. This is an important fact about Canada."
     },
     {
-      "id": 194,
+      "id": 191,
       "topic": "economy",
       "question": "Which province is the main producer of pulp and paper and hydro-electricity?",
       "options": [
@@ -2575,7 +2523,7 @@
       "explanation": "Quebec is the main producer of pulp and paper and hydro-electricity thanks to its vast forests and rivers."
     },
     {
-      "id": 195,
+      "id": 192,
       "topic": "history",
       "question": "Which province was split into two at Confederation?",
       "options": [
@@ -2588,7 +2536,7 @@
       "explanation": "The Province of Canada was split into Ontario and Quebec at Confederation in 1867."
     },
     {
-      "id": 196,
+      "id": 193,
       "topic": "elections",
       "question": "Which province was the first to grant voting rights to women?",
       "options": [
@@ -2601,7 +2549,7 @@
       "explanation": "Manitoba was the first province to grant women voting rights in 1916."
     },
     {
-      "id": 197,
+      "id": 194,
       "topic": "symbols",
       "question": "Which provincial flag features the fleur-de-lys?",
       "options": [
@@ -2614,7 +2562,7 @@
       "explanation": "Quebec's flag features the fleur-de-lys, symbol of French royalty, representing Quebec's French heritage."
     },
     {
-      "id": 198,
+      "id": 195,
       "topic": "regions",
       "question": "Which region covers more than one-third of Canada?",
       "options": [
@@ -2627,7 +2575,7 @@
       "explanation": "The Northern Territories cover more than one-third of Canada's land area."
     },
     {
-      "id": 199,
+      "id": 196,
       "topic": "economy",
       "question": "Which region is known as the industrial and manufacturing heartland of Canada?",
       "options": [
@@ -2640,7 +2588,7 @@
       "explanation": "Central Canada is the industrial and manufacturing heartland, with most manufacturing in Ontario and Quebec."
     },
     {
-      "id": 200,
+      "id": 197,
       "topic": "regions",
       "question": "Which region of Canada is known for both its fertile agricultural land and valuable energy resources?",
       "options": [
@@ -2653,7 +2601,7 @@
       "explanation": "The Prairie provinces are known for fertile farmland (grains and oilseeds) and valuable energy resources (oil and natural gas)."
     },
     {
-      "id": 201,
+      "id": 198,
       "topic": "modern-canada",
       "question": "Which three countries are signatories to NAFTA?",
       "options": [
@@ -2666,7 +2614,7 @@
       "explanation": "NAFTA (North American Free Trade Agreement) was signed by Canada, Mexico, and the United States in 1994."
     },
     {
-      "id": 202,
+      "id": 199,
       "topic": "regions",
       "question": "Which was the last province to join Canada?",
       "options": [
@@ -2679,7 +2627,7 @@
       "explanation": "Newfoundland and Labrador was the last province to join Confederation in 1949."
     },
     {
-      "id": 203,
+      "id": 200,
       "topic": "who-we-are",
       "question": "Who are the Aboriginal peoples of Canada?",
       "options": [
@@ -2692,7 +2640,7 @@
       "explanation": "Aboriginal peoples are the first people to live in Canada, having inhabited the land for thousands of years before European contact."
     },
     {
-      "id": 204,
+      "id": 201,
       "topic": "who-we-are",
       "question": "Who are the Quebecers?",
       "options": [
@@ -2705,7 +2653,7 @@
       "explanation": "Quebecers are the people of Quebec, Canada's largest province by area where the majority speak French."
     },
     {
-      "id": 205,
+      "id": 202,
       "topic": "government",
       "question": "Who do Canadians vote for in a federal election?",
       "options": [
@@ -2718,7 +2666,7 @@
       "explanation": "In federal elections, Canadians vote for a candidate to represent them in Parliament in their electoral district."
     },
     {
-      "id": 206,
+      "id": 203,
       "topic": "elections",
       "question": "Who do Members of Parliament represent?",
       "options": [
@@ -2731,7 +2679,7 @@
       "explanation": "Members of Parliament represent everyone who lives in their electoral district, regardless of how they voted."
     },
     {
-      "id": 207,
+      "id": 204,
       "topic": "who-we-are",
       "question": "Who had played an important part in building the Canadian Pacific Railway (CPR)?",
       "options": [
@@ -2744,7 +2692,7 @@
       "explanation": "Chinese railroad workers. This is an important fact about Canada."
     },
     {
-      "id": 208,
+      "id": 205,
       "topic": "elections",
       "question": "Who has the right to run as a candidate in federal elections?",
       "options": [
@@ -2757,7 +2705,7 @@
       "explanation": "Any Canadian citizen who is at least 18 years old has the right to run as a candidate in federal elections."
     },
     {
-      "id": 209,
+      "id": 206,
       "topic": "elections",
       "question": "Who has the right to vote in federal elections?",
       "options": [
@@ -2770,7 +2718,7 @@
       "explanation": "To vote federally, you must be a Canadian citizen, at least 18 years old, and on the voters' list."
     },
     {
-      "id": 210,
+      "id": 207,
       "topic": "who-we-are",
       "question": "Who have major responsibilities on First Nations reserves?",
       "options": [
@@ -2783,7 +2731,7 @@
       "explanation": "Band chiefs and councillors have major responsibilities on First Nations reserves, governing local affairs."
     },
     {
-      "id": 211,
+      "id": 208,
       "topic": "history",
       "question": "Who is considered the father of Manitoba?",
       "options": [
@@ -2796,7 +2744,7 @@
       "explanation": "Louis Riel is considered the father of Manitoba for his role in negotiating Manitoba's entry into Confederation."
     },
     {
-      "id": 212,
+      "id": 209,
       "topic": "who-we-are",
       "question": "Who is General Sir Arthur Currie?",
       "options": [
@@ -2809,7 +2757,7 @@
       "explanation": "General Sir Arthur Currie was Canada's greatest soldier in WWI, leading the Canadian Corps to victory at Vimy Ridge."
     },
     {
-      "id": 213,
+      "id": 210,
       "topic": "government",
       "question": "Who is the King's representative in Canada?",
       "options": [
@@ -2822,20 +2770,7 @@
       "explanation": "The Governor General is the King's representative in Canada, carrying out Head of State duties."
     },
     {
-      "id": 214,
-      "topic": "elections",
-      "question": "Who is the leader of the Federal Official Opposition Party?",
-      "options": [
-        "Thomas Mulcair",
-        "Andrew Scheer",
-        "Pierre Poilievre",
-        "Elizabeth May"
-      ],
-      "correctIndex": 2,
-      "explanation": "The party with the second-most MPs becomes the Official Opposition, with the role of opposing or improving government proposals."
-    },
-    {
-      "id": 215,
+      "id": 211,
       "topic": "history",
       "question": "Who led an armed uprising and seized Fort Garry?",
       "options": [
@@ -2848,7 +2783,7 @@
       "explanation": "Louis Riel led a Métis uprising and seized Fort Garry in 1869-1870 to negotiate Manitoba's terms of entry into Confederation."
     },
     {
-      "id": 216,
+      "id": 212,
       "topic": "history",
       "question": "Who led Quebec into Confederation?",
       "options": [
@@ -2861,7 +2796,7 @@
       "explanation": "Sir George-Étienne Cartier was a key architect of Confederation from Quebec who led the province into Confederation."
     },
     {
-      "id": 217,
+      "id": 213,
       "topic": "who-we-are",
       "question": "Who was Sir Sam Steele?",
       "options": [
@@ -2874,7 +2809,7 @@
       "explanation": "Sir Sam Steele was a great frontier hero, Mounted Policeman, and soldier who helped maintain order during the Klondike Gold Rush."
     },
     {
-      "id": 218,
+      "id": 214,
       "topic": "history",
       "question": "Who was the first leader of a responsible government in the Canadas in 1849?",
       "options": [
@@ -2887,7 +2822,7 @@
       "explanation": "Responsible government means the ministers of the Crown must have the support of a majority of elected representatives to govern."
     },
     {
-      "id": 219,
+      "id": 215,
       "topic": "history",
       "question": "Who was the first Prime Minister of Canada?",
       "options": [
@@ -2900,7 +2835,7 @@
       "explanation": "Sir John A. Macdonald was Canada's first Prime Minister and a Father of Confederation."
     },
     {
-      "id": 220,
+      "id": 216,
       "topic": "economy",
       "question": "Who were the Voyagers?",
       "options": [
@@ -2913,7 +2848,7 @@
       "explanation": "The correct answer is Montreal-based traders who travelled by canoe."
     },
     {
-      "id": 221,
+      "id": 217,
       "topic": "history",
       "question": "Why is the battle of Vimy Ridge important?",
       "options": [
@@ -2926,7 +2861,7 @@
       "explanation": "Vimy Ridge secured Canada's reputation for valour when the Canadian Corps captured it in April 1917. It's celebrated as a defining Canadian moment."
     },
     {
-      "id": 222,
+      "id": 218,
       "topic": "economy",
       "question": "Why is trade with other countries important to Canada?",
       "options": [
@@ -2939,33 +2874,7 @@
       "explanation": "Trade with other countries enhances Canada's economy and raises our standard of living."
     },
     {
-      "id": 223,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in Quebec?",
-      "options": [
-        "Dominique Anglade",
-        "Marc Tanguay",
-        "Jean-Marc Fournie",
-        "Philippe Couillard"
-      ],
-      "correctIndex": 1,
-      "explanation": "Marc Tanguay leads the Official Opposition in Quebec, holding the governing party accountable."
-    },
-    {
-      "id": 224,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of Quebec?",
-      "options": [
-        "Honourable Pierre Duchesne",
-        "Honourable Manon Jeannotte",
-        "Honourable Martial Asselin",
-        "Honourable J. Michel Doyon"
-      ],
-      "correctIndex": 1,
-      "explanation": "Manon Jeannotte serves as the Lieutenant Governor of Quebec, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 225,
+      "id": 220,
       "topic": "regions",
       "question": "What is the capital city of Alberta?",
       "options": [
@@ -2978,59 +2887,7 @@
       "explanation": "Edmonton. is the capital city of Alberta."
     },
     {
-      "id": 226,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in Alberta?",
-      "options": [
-        "Rachel Notley.",
-        "Naheed K. Nenshi",
-        "Heather Forsyth.",
-        "Jim Prentice."
-      ],
-      "correctIndex": 1,
-      "explanation": "Naheed K. Nenshi leads the Official Opposition in Alberta, holding the governing party accountable."
-    },
-    {
-      "id": 227,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of Alberta?",
-      "options": [
-        "Donald S. Ethell.",
-        "Salma Lakhani.",
-        "Adrienne Clarkson.",
-        "Lois Mitchell."
-      ],
-      "correctIndex": 1,
-      "explanation": "Salma Lakhani. serves as the Lieutenant Governor of Alberta, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 228,
-      "topic": "government",
-      "question": "What is the name of the Premier of Alberta?",
-      "options": [
-        "Premier Rachel Notley.",
-        "Premier Jason Kenney.",
-        "Premier Danielle Smith.",
-        "Premier Stephen Harper"
-      ],
-      "correctIndex": 2,
-      "explanation": "Danielle Smith. is the current Premier of Alberta, serving as the head of the provincial government."
-    },
-    {
-      "id": 229,
-      "topic": "government",
-      "question": "Which political party is in power in Alberta?",
-      "options": [
-        "New Democratic Party.",
-        "Liberal Party.",
-        "Green Party.",
-        "United Conservative Party"
-      ],
-      "correctIndex": 3,
-      "explanation": "The United Conservative Party currently forms the government in Alberta."
-    },
-    {
-      "id": 230,
+      "id": 222,
       "topic": "economy",
       "question": "Which three natural resources are important to Alberta's economy today?",
       "options": [
@@ -3043,124 +2900,7 @@
       "explanation": "The correct answer is Oil, agriculture, and forestry.."
     },
     {
-      "id": 231,
-      "topic": "regions",
-      "question": "Name the federal electoral districts in Richmond, British Columbia.",
-      "options": [
-        "Richmond has two federal electoral districts: Richmond North and Richmond South",
-        "Richmond has two federal electoral districts: Richmond East and Richmond West",
-        "Richmond has two federal electoral districts: Richmond and Richmond South.",
-        "Richmond has two federal electoral districts: Richmond Centre and Steveston-Richmond East"
-      ],
-      "correctIndex": 3,
-      "explanation": "The correct answer is Richmond has two federal electoral districts: Richmond Centre and Steveston-Richmond East."
-    },
-    {
-      "id": 232,
-      "topic": "regions",
-      "question": "Name the members of Parliament for Richmond, British Columbia and the parties they belong to (Richmond Centre, Steveston-Richmond East respectively).",
-      "options": [
-        "Alice Wong (Conservative), Kenny Chiu (Conservative)",
-        "Joe Peschisolido (Liberal), Kerry-Lynne Findlay (Conservative)",
-        "Chak Au (Conservative), Parm Bains (Liberal)",
-        "Greg Halsey-Brandt (Liberal), Geoff Plant (Liberal)"
-      ],
-      "correctIndex": 2,
-      "explanation": "The correct answer is Chak Au (Conservative), Parm Bains (Liberal)."
-    },
-    {
-      "id": 233,
-      "topic": "regions",
-      "question": "Name the Members of the Legislative Assembly for Richmond, British Columbia and the parties they belong to (Richmond North Centre, Richmond South Centre, Richmond-Steveston, and Richmond-Queensborough respectively).",
-      "options": [
-        "Rob Howard (Liberal), Linda Reid (Liberal), John Cummins (Conservative), and John Yap (Liberal).",
-        "Teresa Wat (BC United), Linda Reid (Liberal), John Yap (Liberal), and Jas Johal (Liberal).",
-        "Olga Ilich (Liberal), Henry Yao (NDP), Jas Johal (Liberal), and John Yap (Liberal).",
-        "Teresa Wat (Conservative Party of BC), Hon Chan (Conservative Party of BC), Kelly Greene (NDP), and Steve Kooner (Conservative Party of BC)"
-      ],
-      "correctIndex": 3,
-      "explanation": "The correct answer is Teresa Wat (Conservative Party of BC), Hon Chan (Conservative Party of BC), Kelly Greene (NDP), and Steve Kooner (Conservative Party of BC)."
-    },
-    {
-      "id": 234,
-      "topic": "regions",
-      "question": "Name three city councillors for Richmond, British Columbia.",
-      "options": [
-        "Malcolm Brodie, Derek Dang and Ernie Novakowski",
-        "Lyn Greenhill, Kiichi Kumagai and Lily von Hendron",
-        "Michael Wolfe, Chak Au and Carol Day",
-        "Ken Johnston, Bill McNulty and Harold Steves"
-      ],
-      "correctIndex": 2,
-      "explanation": "The correct answer is Michael Wolfe, Chak Au and Carol Day."
-    },
-    {
-      "id": 235,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in British Columbia?",
-      "options": [
-        "Adam Olsen",
-        "Trevor Halford (interim)",
-        "Kevin Falcon",
-        "Andrew Wilkinson"
-      ],
-      "correctIndex": 1,
-      "explanation": "Trevor Halford (interim) leads the Official Opposition in British Columbia, holding the governing party accountable."
-    },
-    {
-      "id": 236,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of British Columbia?",
-      "options": [
-        "David Lam",
-        "Wendy Cocchia",
-        "Adrienne Clarkson",
-        "Judith Guichon"
-      ],
-      "correctIndex": 1,
-      "explanation": "Wendy Cocchia serves as the Lieutenant Governor of British Columbia, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 237,
-      "topic": "regions",
-      "question": "What is the name of the Mayor of Richmond, British Columbia?",
-      "options": [
-        "Mayor Richard Lee",
-        "Mayor Bill McNulty",
-        "Mayor Linda McPhail",
-        "Mayor Malcolm Brodie"
-      ],
-      "correctIndex": 3,
-      "explanation": "Malcolm Brodie serves as the Mayor of Richmond, British Columbia."
-    },
-    {
-      "id": 238,
-      "topic": "government",
-      "question": "What is the name of the Premier of British Columbia?",
-      "options": [
-        "Premier Adrian Dix",
-        "Premier David Eby",
-        "Premier John Horgan",
-        "Premier Christy Clark"
-      ],
-      "correctIndex": 1,
-      "explanation": "David Eby is the current Premier of British Columbia, serving as the head of the provincial government."
-    },
-    {
-      "id": 239,
-      "topic": "government",
-      "question": "Which political party is in power in British Columbia?",
-      "options": [
-        "New Democratic Party",
-        "Liberal Party",
-        "Social Credit Party",
-        "Green Party"
-      ],
-      "correctIndex": 0,
-      "explanation": "The New Democratic Party currently forms the government in British Columbia."
-    },
-    {
-      "id": 240,
+      "id": 229,
       "topic": "economy",
       "question": "Which three natural resources are important to British Columbia's economy today?",
       "options": [
@@ -3173,7 +2913,7 @@
       "explanation": "The correct answer is Forests, fish and water.."
     },
     {
-      "id": 241,
+      "id": 230,
       "topic": "economy",
       "question": "Why is British Columbia known as Canada's Pacific Gateway?",
       "options": [
@@ -3186,7 +2926,7 @@
       "explanation": "BC is Canada's Pacific Gateway because billions in trade goods flow through Vancouver's port, connecting Canada to Asia-Pacific markets."
     },
     {
-      "id": 242,
+      "id": 231,
       "topic": "regions",
       "question": "What is the capital city of Manitoba?",
       "options": [
@@ -3199,46 +2939,7 @@
       "explanation": "Winnipeg is the capital city of Manitoba."
     },
     {
-      "id": 243,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in Manitoba?",
-      "options": [
-        "Obby Khan",
-        "Heather Stefanson",
-        "Wab Kinew",
-        "Brian Pallister"
-      ],
-      "correctIndex": 0,
-      "explanation": "Obby Khan leads the Official Opposition in Manitoba, holding the governing party accountable."
-    },
-    {
-      "id": 244,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of Manitoba?",
-      "options": [
-        "Honourable Anita Neville",
-        "Honourable Peter Liba",
-        "Honourable Philip Lee",
-        "Honourable Janice Filmon"
-      ],
-      "correctIndex": 0,
-      "explanation": "Anita Neville serves as the Lieutenant Governor of Manitoba, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 245,
-      "topic": "government",
-      "question": "What is the name of the Premier of Manitoba?",
-      "options": [
-        "Premier Heather Stefanson",
-        "Premier Wab Kinew",
-        "Premier Brian Pallister",
-        "Premier Sterling Lyon"
-      ],
-      "correctIndex": 1,
-      "explanation": "Wab Kinew is the current Premier of Manitoba, serving as the head of the provincial government."
-    },
-    {
-      "id": 246,
+      "id": 233,
       "topic": "economy",
       "question": "What three industries are important to Manitoba's economy today?",
       "options": [
@@ -3251,20 +2952,7 @@
       "explanation": "Manitoba's economy relies heavily on agriculture, mining and hydro-electric power generation."
     },
     {
-      "id": 247,
-      "topic": "government",
-      "question": "Which political party is in power in Manitoba?",
-      "options": [
-        "Manitoba Party",
-        "Liberals",
-        "Progressive Conservative",
-        "New Democratic Party"
-      ],
-      "correctIndex": 3,
-      "explanation": "The New Democratic Party currently forms the government in Manitoba."
-    },
-    {
-      "id": 248,
+      "id": 234,
       "topic": "regions",
       "question": "What is the capital city of New Brunswick?",
       "options": [
@@ -3277,46 +2965,7 @@
       "explanation": "Fredericton is the capital city of New Brunswick."
     },
     {
-      "id": 249,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in New Brunswick?",
-      "options": [
-        "Victor Boudreau",
-        "Denis Landry",
-        "Glen Savoie",
-        "David Alward"
-      ],
-      "correctIndex": 2,
-      "explanation": "Glen Savoie leads the Official Opposition in New Brunswick, holding the governing party accountable."
-    },
-    {
-      "id": 250,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of New Brunswick?",
-      "options": [
-        "Honourable Louise Imbeault",
-        "Honourable Gilbert Finn",
-        "Honourable Marilyn Trenholme Counsell",
-        "Honourable Graydon Nicholas"
-      ],
-      "correctIndex": 0,
-      "explanation": "Louise Imbeault serves as the Lieutenant Governor of New Brunswick, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 251,
-      "topic": "government",
-      "question": "What is the name of the Premier of New Brunswick?",
-      "options": [
-        "Premier Bernard Lord",
-        "Premier Susan Holt",
-        "Premier David Alward",
-        "Premier Brian Gallant"
-      ],
-      "correctIndex": 1,
-      "explanation": "Susan Holt is the current Premier of New Brunswick, serving as the head of the provincial government."
-    },
-    {
-      "id": 252,
+      "id": 236,
       "topic": "economy",
       "question": "What three industries are important to New Brunswick's economy today?",
       "options": [
@@ -3329,20 +2978,7 @@
       "explanation": "New Brunswick's economy relies heavily on forestry, agriculture and mining."
     },
     {
-      "id": 253,
-      "topic": "government",
-      "question": "Which political party is in power in New Brunswick?",
-      "options": [
-        "Liberal party of New Brunswick",
-        "New Brunswick Party",
-        "New Democrats",
-        "Progressive Conservative"
-      ],
-      "correctIndex": 0,
-      "explanation": "The Liberal party of New Brunswick currently forms the government in New Brunswick."
-    },
-    {
-      "id": 254,
+      "id": 237,
       "topic": "regions",
       "question": "What is the capital city of Newfoundland and Labrador?",
       "options": [
@@ -3355,46 +2991,7 @@
       "explanation": "St. John's is the capital city of Newfoundland and Labrador."
     },
     {
-      "id": 255,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in Newfoundland and Labrador?",
-      "options": [
-        "David Brazil",
-        "John Hogan",
-        "Paul Davis",
-        "Dwight Ball"
-      ],
-      "correctIndex": 1,
-      "explanation": "John Hogan leads the Official Opposition in Newfoundland and Labrador, holding the governing party accountable."
-    },
-    {
-      "id": 256,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of Newfoundland and Labrador?",
-      "options": [
-        "Honourable Frank F. Fagan",
-        "Honourable Edward Roberts",
-        "Honourable Joan Marie Aylward",
-        "Honourable Judy May Foote"
-      ],
-      "correctIndex": 2,
-      "explanation": "Joan Marie Aylward serves as the Lieutenant Governor of Newfoundland and Labrador, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 257,
-      "topic": "government",
-      "question": "What is the name of the Premier of Newfoundland and Labrador?",
-      "options": [
-        "Premier Tony Wakeham",
-        "Premier Dwight Ball",
-        "Premier Kathy Dunderdale",
-        "Premier Tom Marshall"
-      ],
-      "correctIndex": 0,
-      "explanation": "Tony Wakeham is the current Premier of Newfoundland and Labrador, serving as the head of the provincial government."
-    },
-    {
-      "id": 258,
+      "id": 239,
       "topic": "economy",
       "question": "What three industries are important to Newfoundland and Labrador's economy today?",
       "options": [
@@ -3407,20 +3004,7 @@
       "explanation": "Newfoundland and Labrador's economy relies heavily on fisheries, oil and gas extraction."
     },
     {
-      "id": 259,
-      "topic": "government",
-      "question": "Which political party is in power in Newfoundland and Labrador?",
-      "options": [
-        "NFL Party",
-        "New Democrats",
-        "Liberal Party",
-        "Progressive Conservative"
-      ],
-      "correctIndex": 3,
-      "explanation": "The Progressive Conservative currently forms the government in Newfoundland and Labrador."
-    },
-    {
-      "id": 260,
+      "id": 240,
       "topic": "regions",
       "question": "What is the capital City of Nova Scotia?",
       "options": [
@@ -3433,46 +3017,7 @@
       "explanation": "Halifax is the capital city of Nova Scotia."
     },
     {
-      "id": 261,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in Nova Scotia?",
-      "options": [
-        "Darrell Dexter",
-        "John MacDonell",
-        "Claudia Chender",
-        "Jamie Baillie"
-      ],
-      "correctIndex": 2,
-      "explanation": "Claudia Chender leads the Official Opposition in Nova Scotia, holding the governing party accountable."
-    },
-    {
-      "id": 262,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of Nova Scotia?",
-      "options": [
-        "Honourable John James Grant",
-        "Honourable Myra Freeman",
-        "Honourable Mayann Francis",
-        "Honourable Mike Savage"
-      ],
-      "correctIndex": 3,
-      "explanation": "Mike Savage serves as the Lieutenant Governor of Nova Scotia, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 263,
-      "topic": "government",
-      "question": "What is the name of the Premier of Nova Scotia?",
-      "options": [
-        "Premier Darrel Dexter",
-        "Premier Stephen McNeil",
-        "Premier Tim Houston",
-        "Premier Rodney MacDonald"
-      ],
-      "correctIndex": 2,
-      "explanation": "Tim Houston is the current Premier of Nova Scotia, serving as the head of the provincial government."
-    },
-    {
-      "id": 264,
+      "id": 242,
       "topic": "economy",
       "question": "What three industries are important to Nova Scotia's economy today?",
       "options": [
@@ -3485,20 +3030,7 @@
       "explanation": "Nova Scotia's economy relies heavily on coal mining, forestry and agriculture."
     },
     {
-      "id": 265,
-      "topic": "government",
-      "question": "Which political party is in power in Nova Scotia?",
-      "options": [
-        "New Democrats",
-        "Progressive Conservative",
-        "Liberal",
-        "Nova Scotia Party"
-      ],
-      "correctIndex": 1,
-      "explanation": "The Progressive Conservative currently forms the government in Nova Scotia."
-    },
-    {
-      "id": 266,
+      "id": 243,
       "topic": "regions",
       "question": "What is the capital City of the Northwest Territories?",
       "options": [
@@ -3511,59 +3043,7 @@
       "explanation": "Yellowknife is the capital city of Northwest Territories."
     },
     {
-      "id": 267,
-      "topic": "government",
-      "question": "What is the name of the Commissioner of the Northwest Territories?",
-      "options": [
-        "Honourable Margaret Thom",
-        "Honourable Gerry Kisoun",
-        "Honourable Daniel L. Norris",
-        "Honourable Glenna Hansen"
-      ],
-      "correctIndex": 1,
-      "explanation": "Gerry Kisoun serves as Commissioner of Northwest Territories, representing the federal government in the territory."
-    },
-    {
-      "id": 268,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in the Northwest Territories?",
-      "options": [
-        "None",
-        "George Braden",
-        "Don Morin",
-        "Nellie Cournoyea"
-      ],
-      "correctIndex": 0,
-      "explanation": "Northwest Territories uses a consensus government system without formal political parties, so there is no Official Opposition leader."
-    },
-    {
-      "id": 269,
-      "topic": "government",
-      "question": "What is the name of the Premier of the Northwest Territories?",
-      "options": [
-        "Premier Bob McLeod",
-        "Premier Caroline Cochrane",
-        "Premier R.J. Simpson",
-        "Premier Jim Antoine"
-      ],
-      "correctIndex": 2,
-      "explanation": "R.J. Simpson is the current Premier of Northwest Territories, serving as the head of the provincial government."
-    },
-    {
-      "id": 270,
-      "topic": "government",
-      "question": "Which political party is in power in the Northwest Territories?",
-      "options": [
-        "Yukon Party",
-        "Liberals",
-        "Governed by consensus",
-        "New Democrats"
-      ],
-      "correctIndex": 2,
-      "explanation": "Northwest Territories uses a consensus government system where MLAs do not belong to political parties and leaders are chosen by their peers."
-    },
-    {
-      "id": 271,
+      "id": 244,
       "topic": "regions",
       "question": "What is the capital City of the Nunavut?",
       "options": [
@@ -3576,98 +3056,7 @@
       "explanation": "Iqaluit is the capital city of Nunavut."
     },
     {
-      "id": 272,
-      "topic": "government",
-      "question": "What is the name of the Commissioner of Nunavut?",
-      "options": [
-        "Honourable Peter Irniq",
-        "Honourable Ann Meekitjuk Hanson",
-        "Honourable Eva Aariak",
-        "Honourable Nellie Taptaqut Kusugak"
-      ],
-      "correctIndex": 2,
-      "explanation": "Eva Aariak serves as Commissioner of Nunavut, representing the federal government in the territory."
-    },
-    {
-      "id": 273,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in Nunavut?",
-      "options": [
-        "Don Morin",
-        "Joe Handley",
-        "None",
-        "Eva Aariak"
-      ],
-      "correctIndex": 2,
-      "explanation": "Nunavut uses a consensus government system without formal political parties, so there is no Official Opposition leader."
-    },
-    {
-      "id": 274,
-      "topic": "government",
-      "question": "What is the name of the Premier of Nunavut?",
-      "options": [
-        "Premier Paul Okalik",
-        "Premier Floyd Roland",
-        "Premier Joe Savikataaq",
-        "Premier John Main"
-      ],
-      "correctIndex": 3,
-      "explanation": "John Main is the current Premier of Nunavut, serving as the head of the provincial government."
-    },
-    {
-      "id": 275,
-      "topic": "government",
-      "question": "Which political party is in power in Nunavut?",
-      "options": [
-        "Progressive Conservative",
-        "Liberal",
-        "Nunavut Party",
-        "Governed by consensus"
-      ],
-      "correctIndex": 3,
-      "explanation": "Nunavut uses a consensus government system where MLAs do not belong to political parties and leaders are chosen by their peers."
-    },
-    {
-      "id": 276,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in Ontario?",
-      "options": [
-        "Andrea Horwath",
-        "Marit Stiles",
-        "Peter Tabuns",
-        "Dalton McGuinty"
-      ],
-      "correctIndex": 1,
-      "explanation": "Marit Stiles leads the Official Opposition in Ontario, holding the governing party accountable."
-    },
-    {
-      "id": 277,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of Ontario?",
-      "options": [
-        "James Bartleman",
-        "Elizabeth Dowdeswell",
-        "David C. Onley",
-        "Edith Dumont"
-      ],
-      "correctIndex": 3,
-      "explanation": "Edith Dumont serves as the Lieutenant Governor of Ontario, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 278,
-      "topic": "government",
-      "question": "What is the name of the Premier of Ontario?",
-      "options": [
-        "Premier Doug Ford",
-        "Premier Jack Layton",
-        "Premier Kathleen Wynne",
-        "Premier Mike Harris"
-      ],
-      "correctIndex": 0,
-      "explanation": "Doug Ford is the current Premier of Ontario, serving as the head of the provincial government."
-    },
-    {
-      "id": 279,
+      "id": 246,
       "topic": "economy",
       "question": "What three industries are important to Ontario's economy today?",
       "options": [
@@ -3680,20 +3069,7 @@
       "explanation": "Ontario's economy relies heavily on mining, tourism, automobile manufacturing."
     },
     {
-      "id": 280,
-      "topic": "government",
-      "question": "Which political party is in power in Ontario?",
-      "options": [
-        "Green Party",
-        "Liberal Party",
-        "Progressive Conservative Party",
-        "New Democratic Party"
-      ],
-      "correctIndex": 2,
-      "explanation": "The Progressive Conservative Party currently forms the government in Ontario."
-    },
-    {
-      "id": 281,
+      "id": 247,
       "topic": "regions",
       "question": "What is the capital City of the Prince Edward Island?",
       "options": [
@@ -3706,72 +3082,7 @@
       "explanation": "Charlottetown is the capital city of Prince Edward Island."
     },
     {
-      "id": 282,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in Prince Edward Island?",
-      "options": [
-        "Hal Perry",
-        "Jamie Fox",
-        "Steven Meyers",
-        "Peter Bevan-Baker"
-      ],
-      "correctIndex": 0,
-      "explanation": "Hal Perry leads the Official Opposition in Prince Edward Island, holding the governing party accountable."
-    },
-    {
-      "id": 283,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of Prince Edward Island?",
-      "options": [
-        "Honourable Dr. Wassim Salamoun",
-        "Honourable H. Frank Lewis",
-        "Honourable Barbara Oliver Hagerman",
-        "Honourable Léonce Barnard"
-      ],
-      "correctIndex": 0,
-      "explanation": "Dr. Wassim Salamoun serves as the Lieutenant Governor of Prince Edward Island, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 284,
-      "topic": "government",
-      "question": "What is the name of the Premier of Prince Edward Island?",
-      "options": [
-        "Premier Wade MacLauchlan",
-        "Premier Bloyce Thompson",
-        "Premier Pat Binns",
-        "Premier Joe Ghiz"
-      ],
-      "correctIndex": 1,
-      "explanation": "Bloyce Thompson is the current Premier of Prince Edward Island, serving as the head of the provincial government."
-    },
-    {
-      "id": 285,
-      "topic": "government",
-      "question": "Which political party is in power in Prince Edward Island?",
-      "options": [
-        "Progressive Conservative",
-        "New Democrats",
-        "Liberals",
-        "Union Nationale"
-      ],
-      "correctIndex": 0,
-      "explanation": "The Progressive Conservative currently forms the government in Prince Edward Island."
-    },
-    {
-      "id": 286,
-      "topic": "government",
-      "question": "What is the name of the Premier of Quebec?",
-      "options": [
-        "Premier Lucien Bouchard",
-        "Premier Pauline Marois",
-        "Premier Francois Legault",
-        "Premier Philippe Couillard"
-      ],
-      "correctIndex": 2,
-      "explanation": "Francois Legault is the current Premier of Quebec, serving as the head of the provincial government."
-    },
-    {
-      "id": 287,
+      "id": 249,
       "topic": "economy",
       "question": "What three industries are important to Quebec's economy today?",
       "options": [
@@ -3784,20 +3095,7 @@
       "explanation": "Quebec's economy relies heavily on pulp and paper, forestry and hydro-electric power."
     },
     {
-      "id": 288,
-      "topic": "government",
-      "question": "Which political party is in power in Quebec?",
-      "options": [
-        "Coalition Avenir Québec",
-        "Parti libéral",
-        "Parti Quebecois",
-        "Union Nationale"
-      ],
-      "correctIndex": 0,
-      "explanation": "The Coalition Avenir Québec currently forms the government in Quebec."
-    },
-    {
-      "id": 289,
+      "id": 250,
       "topic": "regions",
       "question": "What is the capital city of Saskatchewan?",
       "options": [
@@ -3810,46 +3108,7 @@
       "explanation": "Regina is the capital city of Saskatchewan."
     },
     {
-      "id": 290,
-      "topic": "government",
-      "question": "What is the name of the leader of the Opposition in Saskatchewan?",
-      "options": [
-        "Ryan Meili",
-        "Carla Beck",
-        "John Nilson",
-        "Cam Broten"
-      ],
-      "correctIndex": 1,
-      "explanation": "Carla Beck leads the Official Opposition in Saskatchewan, holding the governing party accountable."
-    },
-    {
-      "id": 291,
-      "topic": "government",
-      "question": "What is the name of the Lieutenant-Governor of Saskatchewan?",
-      "options": [
-        "Honourable Dr. Gordon L. Barnhart",
-        "Honourable Vaughn Solomon Schofield",
-        "Honourable M. Bernadette McIntyre",
-        "Honourable Lynda Maureen Haverstock"
-      ],
-      "correctIndex": 2,
-      "explanation": "M. Bernadette McIntyre serves as the Lieutenant Governor of Saskatchewan, representing the Sovereign at the provincial level."
-    },
-    {
-      "id": 292,
-      "topic": "government",
-      "question": "What is the name of the Premier of Saskatchewan?",
-      "options": [
-        "Premier Lorne Calvert",
-        "Premier Brad Wall",
-        "Premier Scott Moe",
-        "Premier Len Taylor"
-      ],
-      "correctIndex": 2,
-      "explanation": "Scott Moe is the current Premier of Saskatchewan, serving as the head of the provincial government."
-    },
-    {
-      "id": 293,
+      "id": 252,
       "topic": "economy",
       "question": "What three industries are important to Saskatchewan's economy today?",
       "options": [
@@ -3862,20 +3121,7 @@
       "explanation": "Saskatchewan's economy relies heavily on farming, mining and natural gas."
     },
     {
-      "id": 294,
-      "topic": "government",
-      "question": "Which political party is in power in Saskatchewan?",
-      "options": [
-        "NDP",
-        "Saskatchewan Party",
-        "Progressive Conservative",
-        "Social Credit"
-      ],
-      "correctIndex": 1,
-      "explanation": "The Saskatchewan Party currently forms the government in Saskatchewan."
-    },
-    {
-      "id": 295,
+      "id": 253,
       "topic": "regions",
       "question": "What is the capital city of Yukon Territory?",
       "options": [
@@ -3888,56 +3134,524 @@
       "explanation": "Whitehorse is the capital city of Yukon."
     },
     {
-      "id": 296,
-      "topic": "government",
-      "question": "What is the name of the Commissioner of Yukon Territory?",
+      "id": 254,
+      "topic": "history",
+      "question": "When did Vikings first reach Canada?",
       "options": [
-        "Honourable Doug Phillips",
-        "Honourable Angélique Bernard",
-        "Honourable Adeline Webber",
-        "Honourable Douglas Bell"
-      ],
-      "correctIndex": 2,
-      "explanation": "Adeline Webber serves as Commissioner of Yukon, representing the federal government in the territory."
-    },
-    {
-      "id": 297,
-      "topic": "regions",
-      "question": "What is the name of the leader of the Opposition in Yukon Territory?",
-      "options": [
-        "Trevor Harding",
-        "Kate White",
-        "Stacey Hassard",
-        "Arthur Mitchell"
+        "About 500 years ago",
+        "About 1,000 years ago",
+        "About 2,000 years ago",
+        "About 300 years ago"
       ],
       "correctIndex": 1,
-      "explanation": "Kate White leads the Official Opposition in Yukon, holding the governing party accountable."
+      "explanation": "Vikings reached Labrador and Newfoundland about 1,000 years ago. L'Anse aux Meadows in Newfoundland is a UNESCO World Heritage site marking their settlement."
     },
     {
-      "id": 298,
-      "topic": "government",
-      "question": "What is the name of the Premier of Yukon Territory?",
+      "id": 255,
+      "topic": "history",
+      "question": "Who founded Quebec City in 1608?",
       "options": [
-        "Premier Dennis Fentie",
-        "Premier Bob McLeod",
-        "Premier Ranj Pillai",
-        "Premier Sandy Silver"
+        "Jacques Cartier",
+        "John Cabot",
+        "Samuel de Champlain",
+        "Pierre de Monts"
       ],
       "correctIndex": 2,
-      "explanation": "Ranj Pillai is the current Premier of Yukon, serving as the head of the provincial government."
+      "explanation": "Samuel de Champlain founded Quebec City in 1608, establishing the first permanent French settlement in North America. He is known as the \"Father of New France.\""
     },
     {
-      "id": 299,
-      "topic": "government",
-      "question": "Which political party is in power in Yukon Territory?",
+      "id": 256,
+      "topic": "history",
+      "question": "What happened to both commanding generals at the Battle of the Plains of Abraham in 1759?",
       "options": [
-        "Progressive Conservatives",
-        "New Democrats",
-        "Yukon Liberal Party",
-        "Yukon Party"
+        "They both survived and signed a peace treaty",
+        "They both died in the battle",
+        "The British general was captured",
+        "The French general escaped to France"
       ],
-      "correctIndex": 3,
-      "explanation": "The Yukon Party currently forms the government in Yukon."
+      "correctIndex": 1,
+      "explanation": "Both British General Wolfe and French General Montcalm died at the Battle of the Plains of Abraham in 1759. The British victory ended France's empire in America."
+    },
+    {
+      "id": 257,
+      "topic": "history",
+      "question": "Who wrote the famous poem \"In Flanders Fields\"?",
+      "options": [
+        "Sir John A. Macdonald",
+        "Lt.-Col. John McCrae",
+        "General Sir Arthur Currie",
+        "Terry Fox"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lt.-Col. John McCrae wrote \"In Flanders Fields\" in 1915 after presiding over a friend's funeral. The poem inspired the poppy as a symbol of remembrance."
+    },
+    {
+      "id": 258,
+      "topic": "history",
+      "question": "What was the result of the Red River Rebellion led by Louis Riel in 1869-1870?",
+      "options": [
+        "Quebec separated from Canada",
+        "Manitoba was created as a province",
+        "The CPR was completed",
+        "Women gained the right to vote"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Red River Rebellion led by Louis Riel resulted in Manitoba becoming a province in 1870. Riel is considered the founder of Manitoba."
+    },
+    {
+      "id": 259,
+      "topic": "modern-canada",
+      "question": "What war did Canada participate in from 1950 to 1953?",
+      "options": [
+        "World War II",
+        "The Vietnam War",
+        "The Korean War",
+        "The Gulf War"
+      ],
+      "correctIndex": 2,
+      "explanation": "Canada participated in the Korean War from 1950 to 1953. About 26,000 Canadians served, with 516 killed and over 1,000 wounded."
+    },
+    {
+      "id": 260,
+      "topic": "modern-canada",
+      "question": "When was Employment Insurance (originally Unemployment Insurance) introduced federally in Canada?",
+      "options": [
+        "1927",
+        "1940",
+        "1965",
+        "1982"
+      ],
+      "correctIndex": 1,
+      "explanation": "Employment Insurance was introduced federally in 1940 to provide temporary income support to workers who lose their jobs."
+    },
+    {
+      "id": 261,
+      "topic": "modern-canada",
+      "question": "When were the Canada and Quebec Pension Plans (CPP/QPP) created?",
+      "options": [
+        "1927",
+        "1940",
+        "1965",
+        "1982"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Canada and Quebec Pension Plans were created in 1965 to provide retirement income for workers. Quebec operates its own plan separately."
+    },
+    {
+      "id": 262,
+      "topic": "modern-canada",
+      "question": "What was the Quiet Revolution?",
+      "options": [
+        "A violent uprising in Ontario in the 1950s",
+        "The rapid modernization of Quebec society in the 1960s",
+        "The creation of Nunavut in 1999",
+        "The patriation of the Constitution in 1982"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Quiet Revolution was the rapid modernization of Quebec society in the 1960s, including secularization and modernization of education and healthcare."
+    },
+    {
+      "id": 263,
+      "topic": "modern-canada",
+      "question": "When were Quebec sovereignty referendums held?",
+      "options": [
+        "1970 and 1985",
+        "1980 and 1995",
+        "1990 and 2000",
+        "1975 and 1990"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quebec sovereignty referendums were held in 1980 and 1995. Both failed, but the 1995 vote was extremely close with 50.58% voting No."
+    },
+    {
+      "id": 264,
+      "topic": "modern-canada",
+      "question": "Who invented the cardiac pacemaker?",
+      "options": [
+        "Sir Frederick Banting",
+        "Alexander Graham Bell",
+        "Dr. John A. Hopps",
+        "Joseph-Armand Bombardier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dr. John A. Hopps invented the first external cardiac pacemaker in 1950 while working at the National Research Council of Canada."
+    },
+    {
+      "id": 265,
+      "topic": "modern-canada",
+      "question": "What is the Canadarm?",
+      "options": [
+        "A type of Canadian firearm",
+        "A robotic arm used on space shuttles and the International Space Station",
+        "A branch of the Canadian military",
+        "A Canadian wrestling move"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Canadarm is a robotic arm developed by SPAR Aerospace and the National Research Council for NASA's Space Shuttle program. Canadarm2 is still used on the International Space Station."
+    },
+    {
+      "id": 266,
+      "topic": "justice",
+      "question": "When was the North West Mounted Police (later RCMP) established?",
+      "options": [
+        "1867",
+        "1873",
+        "1885",
+        "1920"
+      ],
+      "correctIndex": 1,
+      "explanation": "The North West Mounted Police was established in 1873 to maintain order in the western territories. It later became the Royal Canadian Mounted Police (RCMP)."
+    },
+    {
+      "id": 267,
+      "topic": "justice",
+      "question": "What does the \"rule of law\" mean?",
+      "options": [
+        "The Prime Minister makes all the rules",
+        "Everyone, including the government, must follow the law",
+        "Only citizens must follow the law",
+        "Laws only apply in certain provinces"
+      ],
+      "correctIndex": 1,
+      "explanation": "The rule of law means everyone, including the government, must follow the law. No one is above the law in Canada, not even the Prime Minister."
+    },
+    {
+      "id": 268,
+      "topic": "justice",
+      "question": "Which court is the highest court in Canada?",
+      "options": [
+        "The Federal Court of Canada",
+        "The Provincial Superior Court",
+        "The Supreme Court of Canada",
+        "The Court of Queen's Bench"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Supreme Court of Canada is the highest court in the country. It has nine justices and its decisions are final and binding."
+    },
+    {
+      "id": 269,
+      "topic": "economy",
+      "question": "Canada is a member of which group of leading industrialized countries?",
+      "options": [
+        "G20 only",
+        "G7 (formerly G8)",
+        "BRICS",
+        "ASEAN"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canada is a member of the G7 (formerly G8), a group of the world's leading industrialized economies."
+    },
+    {
+      "id": 270,
+      "topic": "economy",
+      "question": "What percentage of Canadian exports go to the United States?",
+      "options": [
+        "About 25%",
+        "About 50%",
+        "More than 75%",
+        "About 90%"
+      ],
+      "correctIndex": 2,
+      "explanation": "More than 75% of Canadian exports go to the United States. The Canada-US trade relationship is the largest bilateral trade relationship in the world."
+    },
+    {
+      "id": 271,
+      "topic": "economy",
+      "question": "What trade agreement replaced NAFTA in 2020?",
+      "options": [
+        "TPP",
+        "CETA",
+        "USMCA",
+        "FTAA"
+      ],
+      "correctIndex": 2,
+      "explanation": "The United States-Mexico-Canada Agreement (USMCA) replaced NAFTA in 2020. It covers trade between the three North American countries."
+    },
+    {
+      "id": 272,
+      "topic": "who-we-are",
+      "question": "Who are the Acadians?",
+      "options": [
+        "Aboriginal peoples of the Arctic",
+        "French descendants who survived the Great Upheaval (1755-1763)",
+        "British settlers in Upper Canada",
+        "Metis people of the prairies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acadians are French descendants who survived the Great Upheaval (1755-1763) when the British expelled thousands from Nova Scotia. Many went to Louisiana, becoming Cajuns."
+    },
+    {
+      "id": 273,
+      "topic": "who-we-are",
+      "question": "Approximately how many First Nations reserve communities are there in Canada?",
+      "options": [
+        "About 100",
+        "About 300",
+        "About 600",
+        "About 1,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "There are about 600 First Nations reserve communities in Canada, with over 630 First Nations bands speaking more than 50 distinct languages."
+    },
+    {
+      "id": 274,
+      "topic": "who-we-are",
+      "question": "What does \"Inuit\" mean?",
+      "options": [
+        "The north",
+        "The people",
+        "The land",
+        "The snow"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inuit means \"the people\" in Inuktitut. It is the preferred term for the Aboriginal peoples of the Arctic."
+    },
+    {
+      "id": 275,
+      "topic": "elections",
+      "question": "How many electoral districts (ridings) are there in Canada?",
+      "options": [
+        "150",
+        "250",
+        "338",
+        "450"
+      ],
+      "correctIndex": 2,
+      "explanation": "There are 338 electoral districts (ridings) in Canada. Each riding elects one Member of Parliament to the House of Commons."
+    },
+    {
+      "id": 276,
+      "topic": "elections",
+      "question": "When are federal elections typically held in Canada?",
+      "options": [
+        "The first Monday in November every four years",
+        "The third Monday in October every four years",
+        "The last Friday in September every five years",
+        "Any time the Prime Minister decides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Federal elections are held on the third Monday in October every four years, though the Prime Minister can request an earlier election."
+    },
+    {
+      "id": 277,
+      "topic": "elections",
+      "question": "What is the National Register of Electors?",
+      "options": [
+        "A list of all Members of Parliament",
+        "A permanent database of eligible voters",
+        "A record of past election results",
+        "A list of political parties"
+      ],
+      "correctIndex": 1,
+      "explanation": "The National Register of Electors is a permanent database of Canadian citizens eligible to vote, maintained by Elections Canada."
+    },
+    {
+      "id": 278,
+      "topic": "rights-responsibilities",
+      "question": "Which citizenship responsibility is legally mandatory in Canada?",
+      "options": [
+        "Voting in elections",
+        "Serving on a jury when called",
+        "Volunteering in the community",
+        "Learning both official languages"
+      ],
+      "correctIndex": 1,
+      "explanation": "Serving on a jury when called is the only legally mandatory citizenship responsibility. Voting and volunteering are moral duties but not legal requirements."
+    },
+    {
+      "id": 279,
+      "topic": "rights-responsibilities",
+      "question": "When did Indigenous peoples gain the right to vote in federal elections without losing their status?",
+      "options": [
+        "1918",
+        "1940",
+        "1960",
+        "1982"
+      ],
+      "correctIndex": 2,
+      "explanation": "Indigenous peoples gained the unrestricted right to vote in federal elections in 1960, without having to give up their Indian status."
+    },
+    {
+      "id": 280,
+      "topic": "symbols",
+      "question": "How many Canadians have received the Victoria Cross since 1854?",
+      "options": [
+        "45",
+        "96",
+        "150",
+        "200"
+      ],
+      "correctIndex": 1,
+      "explanation": "96 Canadians have received the Victoria Cross since 1854. It is the highest honour for bravery, awarded for extreme courage in the face of the enemy."
+    },
+    {
+      "id": 281,
+      "topic": "symbols",
+      "question": "When was the Order of Canada established?",
+      "options": [
+        "1867",
+        "1931",
+        "1967",
+        "1982"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Order of Canada was established in 1967 during Canada's centennial to recognize outstanding achievement and service to the country."
+    },
+    {
+      "id": 282,
+      "topic": "history",
+      "question": "Who drove the last spike of the Canadian Pacific Railway?",
+      "options": [
+        "Sir John A. Macdonald",
+        "Donald Smith (Lord Strathcona)",
+        "Sir Wilfrid Laurier",
+        "Louis Riel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Donald Smith (later Lord Strathcona) drove the last spike at Craigellachie, BC on November 7, 1885, completing the transcontinental railway."
+    },
+    {
+      "id": 283,
+      "topic": "history",
+      "question": "What year did Newfoundland and Labrador join Canada?",
+      "options": [
+        "1867",
+        "1905",
+        "1949",
+        "1999"
+      ],
+      "correctIndex": 2,
+      "explanation": "Newfoundland and Labrador joined Canada in 1949, becoming the last province to join Confederation after a narrow referendum vote."
+    },
+    {
+      "id": 284,
+      "topic": "history",
+      "question": "When was the Quebec Act passed and what did it do?",
+      "options": [
+        "1774 - allowed French Canadians to practice Catholicism and use French civil law",
+        "1867 - created the province of Quebec",
+        "1969 - made French an official language",
+        "1982 - patriated the Constitution"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Quebec Act of 1774 allowed French Canadians to practice Catholicism and use French civil law, helping secure their loyalty to the British Crown."
+    },
+    {
+      "id": 285,
+      "topic": "modern-canada",
+      "question": "What military alliances is Canada a member of?",
+      "options": [
+        "NATO and the Warsaw Pact",
+        "NATO and NORAD",
+        "SEATO and CENTO",
+        "The League of Nations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canada is a member of NATO (North Atlantic Treaty Organization) and NORAD (North American Aerospace Defense Command), a joint agreement with the United States."
+    },
+    {
+      "id": 286,
+      "topic": "modern-canada",
+      "question": "When was Old Age Security (OAS) established in Canada?",
+      "options": [
+        "1867",
+        "1927",
+        "1940",
+        "1965"
+      ],
+      "correctIndex": 1,
+      "explanation": "Old Age Security was established in 1927 and is available to most Canadians 65 and older who meet residency requirements."
+    },
+    {
+      "id": 287,
+      "topic": "modern-canada",
+      "question": "When was oil discovered in Alberta, launching its modern energy industry?",
+      "options": [
+        "1905",
+        "1929",
+        "1947",
+        "1967"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oil was discovered at Leduc, Alberta in 1947, launching Alberta's modern oil and gas industry."
+    },
+    {
+      "id": 288,
+      "topic": "government",
+      "question": "Who represents the federal government in the territories?",
+      "options": [
+        "The Lieutenant Governor",
+        "The Commissioner",
+        "The Premier",
+        "The Governor General"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Commissioner represents the federal government in territories, unlike provinces which have Lieutenant Governors representing the Crown."
+    },
+    {
+      "id": 289,
+      "topic": "government",
+      "question": "How many readings must a bill pass in each chamber before becoming law?",
+      "options": [
+        "One reading",
+        "Two readings",
+        "Three readings",
+        "Four readings"
+      ],
+      "correctIndex": 2,
+      "explanation": "A bill must pass three readings in both the House of Commons and the Senate, then receive Royal Assent from the Governor General to become law."
+    },
+    {
+      "id": 290,
+      "topic": "history",
+      "question": "What was significant about Upper Canada in 1793?",
+      "options": [
+        "It became the first province to join Confederation",
+        "It was the first province to move toward abolishing slavery",
+        "It established the first Canadian university",
+        "It was the site of the first Canadian Parliament"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1793, Upper Canada became the first province in the British Empire to move toward abolishing slavery, well before the rest of the Empire in 1833."
+    },
+    {
+      "id": 291,
+      "topic": "history",
+      "question": "What did British forces do during the War of 1812?",
+      "options": [
+        "Surrendered to American forces",
+        "Burned down the White House in Washington, D.C.",
+        "Invaded Mexico",
+        "Signed a peace treaty immediately"
+      ],
+      "correctIndex": 1,
+      "explanation": "During the War of 1812, British forces burned down the White House in Washington, D.C. in 1814. The war ensured Canada would remain independent from the United States."
+    },
+    {
+      "id": 292,
+      "topic": "who-we-are",
+      "question": "What language did the Metis develop?",
+      "options": [
+        "Inuktitut",
+        "Michif",
+        "Cree",
+        "Ojibwe"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Metis developed Michif, a unique language mixing French nouns with Cree verbs. It is now endangered with only a few thousand speakers."
+    },
+    {
+      "id": 293,
+      "topic": "symbols",
+      "question": "When was the current Canadian flag first raised?",
+      "options": [
+        "1867",
+        "1931",
+        "1965",
+        "1982"
+      ],
+      "correctIndex": 2,
+      "explanation": "The current Canadian flag was first raised on February 15, 1965. Before this, Canada used the Red Ensign featuring the Union Jack."
     }
   ]
 }
