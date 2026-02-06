@@ -81,19 +81,23 @@ Notable Canadian authors:
 
 ### Visual Arts
 
-- **Group of Seven:** Famous landscape painters
+- **Group of Seven:** Famous landscape painters (founded 1920) who developed a distinctly Canadian style inspired by the northern wilderness
 - Emily Carr
 - Jean-Paul Riopelle
-- Kenojuak Ashevak
+- Kenojuak Ashevak (Inuit art)
 
 ### Performing Arts
 
-- Denys Arcand (film)
+**Film:**
+- Denys Arcand
 - Norman Jewison
 - Atom Egoyan
+
+**Theatre:**
 - Regional theatres across Canada
 
-**Cirque du Soleil:** Internationally renowned entertainment company
+**Entertainment:**
+- **Cirque du Soleil:** Internationally renowned Quebec-based entertainment company that has revolutionized circus arts worldwide
 
 ---
 
@@ -118,8 +122,8 @@ Notable Canadian authors:
 
 ### Pioneering Thinkers
 
-- Marshall McLuhan
-- Harold Innis
+- **Marshall McLuhan:** Media theorist and philosopher who coined "the medium is the message"
+- **Harold Innis:** Economic historian who developed communications theory
 
 ### Space Program
 
@@ -149,7 +153,7 @@ Canadian Space Agency participation with the **Canadarm**
 | John A. Hopps | Cardiac pacemaker |
 | SPAR Aerospace | Canadarm (robotic arm) |
 | Mike Lazaridis and Jim Balsillie | BlackBerry wireless device |
-| Sir Frederick Banting and Charles Best | Insulin discovery (treating diabetes) |
+| Sir Frederick Banting and Charles Best | Insulin discovery (treating diabetes) - has saved 16 million lives worldwide |
 
 ---
 

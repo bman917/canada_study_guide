@@ -10,19 +10,17 @@ These are the official study questions from the Discover Canada guide.
 
 2. What is the meaning of the Remembrance Day poppy?
 
-3. Identify four (4) rights that Canadians enjoy.
+3. How are Members of Parliament chosen?
 
-4. Name four (4) fundamental freedoms that Canadians enjoy.
+4. Identify four (4) rights that Canadians enjoy.
 
-5. What is meant by the equality of women and men?
+5. Name four (4) fundamental freedoms that Canadians enjoy.
 
-6. What are some examples of taking responsibility for yourself and your family?
+6. What is meant by the equality of women and men?
 
----
+7. What are some examples of taking responsibility for yourself and your family?
 
-## Documents and Rights
-
-4. Name two key documents that contain our rights and freedoms.
+8. Name two key documents that contain our rights and freedoms.
 
 ---
 

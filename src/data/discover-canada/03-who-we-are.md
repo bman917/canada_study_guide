@@ -18,9 +18,11 @@ Three distinct groups comprise the Aboriginal population:
 |-------|------------------|-------------|
 | **First Nations** | ~65% of Aboriginal peoples | About half live on reserves |
 | **Inuit** | ~4% of Aboriginal peoples | Inhabit Arctic communities |
-| **Métis** | ~30% of Aboriginal peoples | Mixed Aboriginal-European ancestry, concentrated in Prairie provinces |
+| **Métis** | ~30% of Aboriginal peoples | Mixed Aboriginal-European ancestry, concentrated in Prairie provinces, speak Michif dialect |
 
-**Historical Note:** From the 1800s-1980s, residential schools inflicted hardship on Aboriginal children. Ottawa formally apologized in 2008.
+**Historical Context:**
+- **Royal Proclamation of 1763:** Britain's King George III guaranteed Aboriginal territorial rights, forming the basis of modern treaties
+- **Residential Schools (1800s-1980s):** Inflicted hardship on Aboriginal children through forced assimilation; Ottawa formally apologized in 2008
 
 ### English Canadians
 
@@ -32,7 +34,7 @@ Three distinct groups comprise the Aboriginal population:
 - Approximately 7 million Francophones
 - French is one of two official languages
 
-**Acadians:** French colonist descendants who maintained their identity despite 18th-century deportation.
+**Acadians:** French colonist descendants who settled in the Maritimes beginning in 1604. They survived the "Great Upheaval" deportations (1755-1763) and maintained their identity despite persecution.
 
 **Quebecers:** Majority French-speaking population; recognized as "a nation within a united Canada" (2006).
 
@@ -76,6 +78,12 @@ Chinese languages rank second after English in major cities:
 ### LGBTQ+ Rights
 
 Gay and lesbian Canadians enjoy the full protection of and equal treatment under the law, including access to civil marriage.
+
+---
+
+## Canadian Achievement: Marjorie Turner-Bailey
+
+**Marjorie Turner-Bailey**, a descendant of black Loyalists and escaped slaves who came to Canada in the 1780s, became an Olympian and a symbol of Canadian diversity and achievement.
 
 ---
 
