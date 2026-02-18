@@ -2972,10 +2972,10 @@
         "Forestry, hydro-electric power generation, oil",
         "Fisheries, oil, tourism",
         "Atlantic trade, fishing and oil",
-        "Forestry, agriculture and mining"
+        "Forestry, agriculture and fisheries"
       ],
       "correctIndex": 3,
-      "explanation": "New Brunswick's economy relies heavily on forestry, agriculture and mining."
+      "explanation": "New Brunswick's economy relies heavily on forestry, agriculture and fisheries."
     },
     {
       "id": 237,
@@ -3115,10 +3115,10 @@
         "Forestry, films and tourism",
         "Fishing, mining and agriculture",
         "Mining, oil production and forestry",
-        "Farming, mining and natural gas"
+        "Farming, mining and oil and gas"
       ],
       "correctIndex": 3,
-      "explanation": "Saskatchewan's economy relies heavily on farming, mining and natural gas."
+      "explanation": "Saskatchewan's economy relies heavily on farming, mining and oil and gas."
     },
     {
       "id": 253,

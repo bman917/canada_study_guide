@@ -1,0 +1,426 @@
+{
+  "eras": [
+    { "id": "early-exploration", "name": "Early Exploration", "color": "amber" },
+    { "id": "british-rule", "name": "British Rule", "color": "blue" },
+    { "id": "abolition-freedom", "name": "Abolition & Freedom", "color": "emerald" },
+    { "id": "war-of-1812", "name": "War of 1812", "color": "orange" },
+    { "id": "responsible-government", "name": "Responsible Government", "color": "purple" },
+    { "id": "confederation", "name": "Confederation", "color": "red" },
+    { "id": "western-development", "name": "Western Development", "color": "yellow" },
+    { "id": "world-war-1", "name": "World War I", "color": "slate" },
+    { "id": "womens-suffrage", "name": "Women's Suffrage", "color": "pink" },
+    { "id": "world-war-2", "name": "World War II", "color": "zinc" },
+    { "id": "modern-canada", "name": "Modern Canada", "color": "sky" }
+  ],
+  "events": [
+    {
+      "year": 1000,
+      "yearDisplay": "c. 1000",
+      "title": "Vikings Reach North America",
+      "description": "Vikings reached Labrador and Newfoundland, establishing a settlement at L'Anse aux Meadows (now a UNESCO World Heritage site).",
+      "era": "early-exploration",
+      "keyFigures": [],
+      "examTip": "L'Anse aux Meadows is a commonly tested fact."
+    },
+    {
+      "year": 1497,
+      "yearDisplay": "1497",
+      "title": "John Cabot Maps Atlantic Coast",
+      "description": "John Cabot mapped Canada's Atlantic coast, one of the first European explorations of the region.",
+      "era": "early-exploration",
+      "keyFigures": ["John Cabot"]
+    },
+    {
+      "year": 1534,
+      "yearDisplay": "1534-1542",
+      "title": "Jacques Cartier Explores St. Lawrence",
+      "description": "Jacques Cartier explored the St. Lawrence River for France. The name 'Canada' comes from the Iroquoian word 'kanata' meaning village.",
+      "era": "early-exploration",
+      "keyFigures": ["Jacques Cartier"],
+      "examTip": "The origin of the word 'Canada' is frequently tested."
+    },
+    {
+      "year": 1608,
+      "yearDisplay": "1608",
+      "title": "Quebec City Founded",
+      "description": "Samuel de Champlain founded Quebec City, earning him the title 'Father of New France'.",
+      "era": "early-exploration",
+      "keyFigures": ["Samuel de Champlain"]
+    },
+    {
+      "year": 1670,
+      "yearDisplay": "1670",
+      "title": "Hudson's Bay Company Established",
+      "description": "The Hudson's Bay Company was established, becoming a major force in the fur trade and exploration of Canada's interior.",
+      "era": "british-rule",
+      "keyFigures": []
+    },
+    {
+      "year": 1758,
+      "yearDisplay": "1758",
+      "title": "First Representative Assembly",
+      "description": "The first representative assembly was elected in Halifax, Nova Scotia, marking the beginning of democratic governance in Canada.",
+      "era": "british-rule",
+      "keyFigures": []
+    },
+    {
+      "year": 1759,
+      "yearDisplay": "1759",
+      "title": "Battle of the Plains of Abraham",
+      "description": "Britain defeated France in the Battle of the Plains of Abraham, ending France's empire in America. Both generals died: British General Wolfe and French General Montcalm.",
+      "era": "british-rule",
+      "keyFigures": ["General Wolfe", "General Montcalm"],
+      "examTip": "Both generals dying in the same battle is a key exam fact."
+    },
+    {
+      "year": 1774,
+      "yearDisplay": "1774",
+      "title": "Quebec Act",
+      "description": "The Quebec Act allowed Catholic freedom, French civil law, and British criminal law in Quebec.",
+      "era": "british-rule",
+      "keyFigures": []
+    },
+    {
+      "year": 1780,
+      "yearDisplay": "c. 1780s",
+      "title": "United Empire Loyalists Arrive",
+      "description": "Over 40,000 people loyal to the British Crown fled the American Revolution to Canada, shaping the country's English-speaking character.",
+      "era": "british-rule",
+      "keyFigures": [],
+      "examTip": "Know that Loyalists were loyal to the Crown, not to the American revolution."
+    },
+    {
+      "year": 1791,
+      "yearDisplay": "1791",
+      "title": "Constitutional Act",
+      "description": "The Constitutional Act of 1791 granted Canada's first elected legislative assemblies, splitting the province into Upper Canada (Ontario) and Lower Canada (Quebec).",
+      "era": "british-rule",
+      "keyFigures": []
+    },
+    {
+      "year": 1793,
+      "yearDisplay": "1793",
+      "title": "Upper Canada Moves to Abolish Slavery",
+      "description": "Upper Canada (Ontario) became the first province in the British Empire to move toward abolishing slavery, led by Lieutenant Governor John Graves Simcoe.",
+      "era": "abolition-freedom",
+      "keyFigures": ["John Graves Simcoe"],
+      "examTip": "Upper Canada led the British Empire in abolition."
+    },
+    {
+      "year": 1807,
+      "yearDisplay": "1807",
+      "title": "British Parliament Prohibits Slave Trading",
+      "description": "The British Parliament prohibited the buying and selling of slaves throughout the Empire.",
+      "era": "abolition-freedom",
+      "keyFigures": []
+    },
+    {
+      "year": 1833,
+      "yearDisplay": "1833",
+      "title": "Slavery Abolished in British Empire",
+      "description": "Slavery was abolished throughout the British Empire. The Underground Railroad, a Christian anti-slavery network, helped thousands of slaves escape to Canada.",
+      "era": "abolition-freedom",
+      "keyFigures": []
+    },
+    {
+      "year": 1812,
+      "yearDisplay": "1812",
+      "title": "War of 1812 Begins",
+      "description": "The United States invaded Canada but was defeated. The Battle of Queenston Heights was a key early victory, though Major General Sir Isaac Brock died leading it.",
+      "era": "war-of-1812",
+      "keyFigures": ["Sir Isaac Brock", "Chief Tecumseh"]
+    },
+    {
+      "year": 1813,
+      "yearDisplay": "1813",
+      "title": "Laura Secord's Warning",
+      "description": "Laura Secord, a pioneer woman, walked 30 km through rough terrain to warn Lieutenant James FitzGibbon of an American attack, helping secure a Canadian victory.",
+      "era": "war-of-1812",
+      "keyFigures": ["Laura Secord", "Lt. James FitzGibbon"],
+      "examTip": "Laura Secord's 30 km walk is a frequently tested detail."
+    },
+    {
+      "year": 1814,
+      "yearDisplay": "1814",
+      "title": "British Forces Burn the White House",
+      "description": "British forces, including troops from Canada, burned the White House in Washington, D.C. during the War of 1812.",
+      "era": "war-of-1812",
+      "keyFigures": []
+    },
+    {
+      "year": 1837,
+      "yearDisplay": "1837-1838",
+      "title": "Rebellions in Upper and Lower Canada",
+      "description": "Armed rebellions in Upper and Lower Canada led to Lord Durham's Report, which recommended responsible government for the colonies.",
+      "era": "responsible-government",
+      "keyFigures": ["Lord Durham"]
+    },
+    {
+      "year": 1849,
+      "yearDisplay": "1849",
+      "title": "Responsible Government Achieved",
+      "description": "Sir Louis-Hippolyte La Fontaine became the first leader of responsible government in Canada, working alongside Robert Baldwin. La Fontaine was also a champion of French language rights.",
+      "era": "responsible-government",
+      "keyFigures": ["Sir Louis-Hippolyte La Fontaine", "Robert Baldwin"]
+    },
+    {
+      "year": 1867,
+      "yearDisplay": "July 1, 1867",
+      "title": "Confederation",
+      "description": "The British North America Act (now Constitution Act, 1867) created the Dominion of Canada with four founding provinces: Ontario, Quebec, Nova Scotia, and New Brunswick. July 1 was called Dominion Day until 1982, now Canada Day.",
+      "era": "confederation",
+      "keyFigures": ["Sir John A. Macdonald", "Sir George-Etienne Cartier"],
+      "examTip": "Know the four original provinces and that Macdonald was the first PM."
+    },
+    {
+      "year": 1869,
+      "yearDisplay": "1869-1870",
+      "title": "Red River Rebellion",
+      "description": "Louis Riel led the Metis uprising at Fort Garry (now Winnipeg), establishing Manitoba as a province. He is considered the father of Manitoba.",
+      "era": "western-development",
+      "keyFigures": ["Louis Riel"]
+    },
+    {
+      "year": 1873,
+      "yearDisplay": "1873",
+      "title": "North West Mounted Police Established",
+      "description": "The North West Mounted Police (NWMP) was established to maintain order in the western territories. It later became the Royal Canadian Mounted Police (RCMP).",
+      "era": "western-development",
+      "keyFigures": []
+    },
+    {
+      "year": 1885,
+      "yearDisplay": "Nov. 7, 1885",
+      "title": "Canadian Pacific Railway Completed",
+      "description": "The Canadian Pacific Railway was completed when Donald Smith (Lord Strathcona) drove the last spike at Craigellachie, British Columbia. A discriminatory Chinese head tax was imposed after construction (1885-1923); Canada apologized in 2006.",
+      "era": "western-development",
+      "keyFigures": ["Donald Smith"],
+      "examTip": "Know the date, location (Craigellachie, BC), and the Chinese head tax connection."
+    },
+    {
+      "year": 1896,
+      "yearDisplay": "1896",
+      "title": "Sir Wilfrid Laurier Becomes PM",
+      "description": "Sir Wilfrid Laurier became the first French-Canadian Prime Minister since Confederation. His portrait appears on the $5 bill. He encouraged massive western immigration.",
+      "era": "western-development",
+      "keyFigures": ["Sir Wilfrid Laurier"],
+      "examTip": "Laurier is on the $5 bill; Macdonald is on the $10 bill."
+    },
+    {
+      "year": 1915,
+      "yearDisplay": "1915",
+      "title": "\"In Flanders Fields\" Written",
+      "description": "Lieutenant-Colonel John McCrae wrote the poem 'In Flanders Fields,' which inspired the remembrance poppy as a symbol of sacrifice.",
+      "era": "world-war-1",
+      "keyFigures": ["John McCrae"]
+    },
+    {
+      "year": 1917,
+      "yearDisplay": "April 9, 1917",
+      "title": "Battle of Vimy Ridge",
+      "description": "Canadian troops captured Vimy Ridge in a decisive victory with 10,000 casualties. The battle is often called the 'birth of a nation' for Canada. April 9 is now Vimy Day.",
+      "era": "world-war-1",
+      "keyFigures": ["General Sir Arthur Currie"],
+      "examTip": "Vimy Ridge (April 9, 1917) is one of the most commonly tested dates."
+    },
+    {
+      "year": 1918,
+      "yearDisplay": "1918",
+      "title": "World War I Ends",
+      "description": "Over 600,000 Canadians served in World War I; approximately 60,000 died and 170,000 were wounded.",
+      "era": "world-war-1",
+      "keyFigures": []
+    },
+    {
+      "year": 1916,
+      "yearDisplay": "1916",
+      "title": "Manitoba Grants Women Voting Rights",
+      "description": "Manitoba became the first province to grant women the right to vote. Dr. Emily Stowe had founded the women's suffrage movement in Canada.",
+      "era": "womens-suffrage",
+      "keyFigures": ["Dr. Emily Stowe"]
+    },
+    {
+      "year": 1918,
+      "yearDisplay": "1918",
+      "title": "Women Gain Federal Vote",
+      "description": "Most women over 21 gained the right to vote in federal elections.",
+      "era": "womens-suffrage",
+      "keyFigures": []
+    },
+    {
+      "year": 1921,
+      "yearDisplay": "1921",
+      "title": "First Female Member of Parliament",
+      "description": "Agnes Macphail became Canada's first female Member of Parliament.",
+      "era": "womens-suffrage",
+      "keyFigures": ["Agnes Macphail"]
+    },
+    {
+      "year": 1939,
+      "yearDisplay": "1939-1945",
+      "title": "World War II",
+      "description": "Over one million Canadians served in World War II; 44,000 died. The Royal Canadian Navy became the world's third-largest navy by war's end.",
+      "era": "world-war-2",
+      "keyFigures": []
+    },
+    {
+      "year": 1944,
+      "yearDisplay": "June 6, 1944",
+      "title": "D-Day: Juno Beach",
+      "description": "About 15,000 Canadian troops stormed Juno Beach on D-Day, one of the pivotal moments of World War II.",
+      "era": "world-war-2",
+      "keyFigures": [],
+      "examTip": "Canadians landed at Juno Beach specifically (not Omaha or Utah)."
+    },
+    {
+      "year": 1945,
+      "yearDisplay": "1945",
+      "title": "Remembrance Day Tradition",
+      "description": "November 11 (Remembrance Day) honours the over 110,000 Canadians who gave their lives in military service. The red poppy is worn as a symbol of remembrance.",
+      "era": "world-war-2",
+      "keyFigures": []
+    },
+    {
+      "year": 1927,
+      "yearDisplay": "1927",
+      "title": "Old Age Security Established",
+      "description": "Old Age Security (OAS) was established as one of Canada's first major social programs.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 1940,
+      "yearDisplay": "1940",
+      "title": "Employment Insurance Introduced",
+      "description": "Employment Insurance (originally Unemployment Insurance) was introduced federally, providing income support for workers between jobs.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 1947,
+      "yearDisplay": "1947",
+      "title": "Oil Discovered in Alberta",
+      "description": "Oil was discovered at Leduc, Alberta, launching Canada's modern energy industry.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 1949,
+      "yearDisplay": "1949",
+      "title": "Newfoundland Joins Canada & NATO",
+      "description": "Newfoundland and Labrador became the last province to join Canada. In the same year, Canada joined NATO.",
+      "era": "modern-canada",
+      "keyFigures": [],
+      "examTip": "Newfoundland and Labrador was the last province to join (1949)."
+    },
+    {
+      "year": 1950,
+      "yearDisplay": "1950-1953",
+      "title": "Korean War",
+      "description": "26,000 Canadians served in the Korean War; 516 were killed and over 1,000 were wounded.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 1960,
+      "yearDisplay": "1960s",
+      "title": "Quiet Revolution in Quebec",
+      "description": "Quebec underwent rapid modernization during the Quiet Revolution, including secularization and modernized education and healthcare systems.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 1965,
+      "yearDisplay": "1965",
+      "title": "Canada/Quebec Pension Plans Created",
+      "description": "The Canada Pension Plan (CPP) and Quebec Pension Plan (QPP) were created to provide retirement income for Canadians.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 1969,
+      "yearDisplay": "1969",
+      "title": "Official Languages Act",
+      "description": "The Official Languages Act guaranteed French and English services in the federal government, reinforcing Canada's bilingual character.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 1972,
+      "yearDisplay": "1972",
+      "title": "Summit Series",
+      "description": "Paul Henderson scored 'the goal heard around the world' in the Canada-Soviet Summit Series, a defining moment in Canadian sports history.",
+      "era": "modern-canada",
+      "keyFigures": ["Paul Henderson"]
+    },
+    {
+      "year": 1980,
+      "yearDisplay": "1980",
+      "title": "Terry Fox's Marathon of Hope",
+      "description": "Terry Fox, a young British Columbian who lost his leg to cancer, ran his Marathon of Hope to raise money for cancer research. Quebec's first sovereignty referendum was also defeated this year.",
+      "era": "modern-canada",
+      "keyFigures": ["Terry Fox"]
+    },
+    {
+      "year": 1982,
+      "yearDisplay": "1982",
+      "title": "Charter of Rights and Freedoms",
+      "description": "The Canadian Charter of Rights and Freedoms was entrenched in the Constitution, guaranteeing fundamental rights for all Canadians.",
+      "era": "modern-canada",
+      "keyFigures": [],
+      "examTip": "The Charter (1982) is distinct from the Bill of Rights (1960)."
+    },
+    {
+      "year": 1994,
+      "yearDisplay": "1994",
+      "title": "NAFTA Takes Effect",
+      "description": "The North American Free Trade Agreement (NAFTA) between Canada, the United States, and Mexico came into effect.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 1995,
+      "yearDisplay": "1995",
+      "title": "Quebec Sovereignty Referendum",
+      "description": "Quebec's second sovereignty referendum was narrowly defeated, with 50.58% voting No.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 1999,
+      "yearDisplay": "1999",
+      "title": "Nunavut Becomes a Territory",
+      "description": "Nunavut was established as Canada's newest territory, carved from the eastern part of the Northwest Territories.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 2006,
+      "yearDisplay": "2006",
+      "title": "Chinese Head Tax Apology",
+      "description": "The Canadian government formally apologized for the Chinese head tax, a discriminatory entry fee imposed on Chinese immigrants from 1885 to 1923.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 2008,
+      "yearDisplay": "2008",
+      "title": "Residential Schools Apology",
+      "description": "The federal government formally apologized for the residential school system, which had removed Aboriginal children from their families from the 1800s to the 1980s.",
+      "era": "modern-canada",
+      "keyFigures": []
+    },
+    {
+      "year": 2020,
+      "yearDisplay": "2020",
+      "title": "USMCA Replaces NAFTA",
+      "description": "The United States-Mexico-Canada Agreement (USMCA) replaced NAFTA as the trade agreement between the three countries.",
+      "era": "modern-canada",
+      "keyFigures": []
+    }
+  ],
+  "topicMapping": {
+    "history": ["early-exploration", "british-rule", "abolition-freedom", "war-of-1812", "responsible-government", "confederation", "western-development", "world-war-1", "womens-suffrage", "world-war-2"],
+    "modern-canada": ["modern-canada"]
+  }
+}

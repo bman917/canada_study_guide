@@ -1,8 +1,58 @@
 import { useState } from 'react';
 import studyContent from '../data/studyContent.json';
+import timelineData from '../data/timelineEvents.json';
+import Timeline from '../components/Timeline';
+import ProvinceEconomyGrid from '../components/ProvinceEconomyGrid';
 
 export default function StudyMaterials() {
   const [selectedTopic, setSelectedTopic] = useState(studyContent.topics[0]);
+  const [showTimeline, setShowTimeline] = useState(true);
+
+  const isTimelineTopic = selectedTopic.id in timelineData.topicMapping;
+  const topicEraIds = timelineData.topicMapping[selectedTopic.id] || [];
+  const topicEvents = timelineData.events
+    .filter((e) => topicEraIds.includes(e.era))
+    .sort((a, b) => a.year - b.year);
+  const topicEras = timelineData.eras.filter((e) => topicEraIds.includes(e.id));
+
+  const isRegionsTopic = selectedTopic.id === 'regions';
+
+  const renderFactItem = (fact, index) => {
+    const isHeader = /^[A-Z][A-Z\s/&]+:$/.test(fact);
+    return isHeader ? (
+      <li key={index} className="pt-3 first:pt-0">
+        <span className="text-xs sm:text-sm font-semibold text-red-700 uppercase tracking-wide">{fact}</span>
+      </li>
+    ) : (
+      <li key={index} className="flex gap-2 sm:gap-3">
+        <span className="text-red-600 font-bold flex-shrink-0">•</span>
+        <span className="text-sm sm:text-base text-gray-700 leading-relaxed">{fact}</span>
+      </li>
+    );
+  };
+
+  const getEconomySplit = () => {
+    const before = [];
+    const after = [];
+    let inEcon = false;
+    let pastEcon = false;
+    for (const fact of selectedTopic.keyFacts) {
+      if (fact === 'PROVINCIAL ECONOMIES:') { inEcon = true; continue; }
+      if (inEcon) {
+        const isNewHeader = /^[A-Z][A-Z\s/&]+:$/.test(fact);
+        if (fact === '' || isNewHeader) { inEcon = false; pastEcon = true; after.push(fact); }
+      } else if (pastEcon) {
+        after.push(fact);
+      } else {
+        before.push(fact);
+      }
+    }
+    return { before, after };
+  };
+
+  const { before: factsBeforeEcon, after: factsAfterEcon } = isRegionsTopic
+    ? getEconomySplit()
+    : { before: [], after: [] };
 
   return (
     <div className="max-w-6xl mx-auto">
@@ -56,22 +106,51 @@ export default function StudyMaterials() {
             <h2 className="text-xl sm:text-2xl font-bold mb-3 sm:mb-4 text-gray-800">{selectedTopic.name}</h2>
             <p className="text-sm sm:text-base text-gray-700 mb-4 sm:mb-6 leading-relaxed">{selectedTopic.summary}</p>
 
-            <h3 className="text-base sm:text-lg font-bold mb-3 text-gray-800">Key Facts to Remember</h3>
-            <ul className="space-y-2 sm:space-y-3">
-              {selectedTopic.keyFacts.filter(fact => fact !== '').map((fact, index) => {
-                const isHeader = /^[A-Z][A-Z\s/&]+:$/.test(fact);
-                return isHeader ? (
-                  <li key={index} className="pt-3 first:pt-0">
-                    <span className="text-xs sm:text-sm font-semibold text-red-700 uppercase tracking-wide">{fact}</span>
-                  </li>
+            {/* View toggle for timeline-eligible topics */}
+            {isTimelineTopic && (
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-base sm:text-lg font-bold text-gray-800">
+                  {showTimeline ? 'Interactive Timeline' : 'Key Facts to Remember'}
+                </h3>
+                <button
+                  onClick={() => setShowTimeline(!showTimeline)}
+                  className="text-xs sm:text-sm text-red-600 hover:text-red-700 font-medium transition-colors"
+                >
+                  {showTimeline ? 'Switch to List View' : 'Switch to Timeline View'}
+                </button>
+              </div>
+            )}
+
+            {/* Render timeline or flat list */}
+            {isTimelineTopic && showTimeline ? (
+              <Timeline events={topicEvents} eras={topicEras} />
+            ) : (
+              <>
+                {!isTimelineTopic && (
+                  <h3 className="text-base sm:text-lg font-bold mb-3 text-gray-800">Key Facts to Remember</h3>
+                )}
+                {isRegionsTopic ? (
+                  <>
+                    <ul className="space-y-2 sm:space-y-3">
+                      {factsBeforeEcon.filter(f => f !== '').map(renderFactItem)}
+                    </ul>
+                    <div className="mt-6">
+                      <span className="text-xs sm:text-sm font-semibold text-red-700 uppercase tracking-wide">Provincial Economies:</span>
+                      <div className="mt-3">
+                        <ProvinceEconomyGrid />
+                      </div>
+                    </div>
+                    <ul className="space-y-2 sm:space-y-3 mt-4">
+                      {factsAfterEcon.filter(f => f !== '').map(renderFactItem)}
+                    </ul>
+                  </>
                 ) : (
-                  <li key={index} className="flex gap-2 sm:gap-3">
-                    <span className="text-red-600 font-bold flex-shrink-0">•</span>
-                    <span className="text-sm sm:text-base text-gray-700 leading-relaxed">{fact}</span>
-                  </li>
-                );
-              })}
-            </ul>
+                  <ul className="space-y-2 sm:space-y-3">
+                    {selectedTopic.keyFacts.filter(fact => fact !== '').map(renderFactItem)}
+                  </ul>
+                )}
+              </>
+            )}
           </div>
         </div>
       </div>
