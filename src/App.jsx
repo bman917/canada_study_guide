@@ -39,9 +39,6 @@ function App() {
                 www.canada.ca
               </a>
             </p>
-            <p className="text-gray-500 text-xs">
-              Created by Jacky • <a href="mailto:bman917@gmail.com" className="hover:text-gray-300">bman917@gmail.com</a>
-            </p>
           </div>
         </footer>
       </div>
